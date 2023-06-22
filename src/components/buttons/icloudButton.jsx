@@ -1,8 +1,8 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faGoogle } from "@fortawesome/free-brands-svg-icons";
+import { faApple } from "@fortawesome/free-brands-svg-icons";
 
-export function GmailButton() {
+export function IcloudButton() {
   return (
     <div>
       <button
@@ -12,7 +12,7 @@ export function GmailButton() {
         href="#!"
         role="button"
       >
-        <FontAwesomeIcon icon={faGoogle} />
+        <FontAwesomeIcon icon={faApple} />
       </button>
     </div>
   );
