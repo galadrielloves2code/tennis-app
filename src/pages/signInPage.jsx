@@ -56,6 +56,15 @@ export function SignInPage() {
           Create an account
         </Link>
       </div>
+      <br/>
+      <Link
+          to="#"
+          style={{ textDecoration: "none", color: "black" }}
+          onMouseEnter={(e) => (e.target.style.color = "green")}
+          onMouseLeave={(e) => (e.target.style.color = "black")}
+        >
+          Forgot your password?
+        </Link>
     </Router>
   );
 }
