@@ -4,7 +4,7 @@ import { PlayerPictures } from "../components/playersPictures";
 
 export function Profile() {
   return (
-    <div style={{display:"flex"}}>
+    <div style={{ display: "flex" }}>
       <div
         className="container"
         style={{ border: "1px solid black", padding: "10px" }}
@@ -17,23 +17,26 @@ export function Profile() {
             display: "flex",
           }}
         >
-          <Flag countryCode="italiy" altText="Italiy Flag" />
+          <Flag countryCode="italy" altText="Italy Flag" />
           <p style={{ marginLeft: "10px" }}>Jannik Sinner</p>
-          <h1
-            style={{
-              border: "1px solid black",
-              padding: "20px",
-              marginLeft: "auto",
-              borderRadius: "20px",
-            }}
-          >
-            8
-          </h1>
+          <div style={{ display: "block", marginLeft: "auto",}}>
+            <h1
+              style={{
+                border: "1px solid black",
+                padding: "20px",
+                borderRadius: "20px",
+                textAlign: "center",
+              }}
+            >
+              8
+            </h1>
+            <p>Singles Rank</p>
+          </div>
         </div>
         <div style={{ display: "flex" }}></div>
       </div>
       <div>
-        <PlayerPictures/>
+        <PlayerPictures playerLastName="sinner" />
       </div>
     </div>
   );
