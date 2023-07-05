@@ -5,7 +5,7 @@ export function PlayerPictures({ playerLastName }) {
 
   return (
     <div>
-      <img src={imagePath} alt={playerLastName} />
+      <img src={imagePath} alt={playerLastName} className="container" style={{paddingLeft: "20px"}}/>
     </div>
   );
 }

@@ -18,7 +18,7 @@ export function Profile() {
           }}
         >
           <Flag countryCode="italy" altText="Italy Flag" />
-          <p style={{ marginLeft: "10px" }}>Jannik Sinner</p>
+          <p style={{ marginLeft: "10px"}}>Jannik Sinner</p>
           <div style={{ display: "block", marginLeft: "auto",}}>
             <h1
               style={{
