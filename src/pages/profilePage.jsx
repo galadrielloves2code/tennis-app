@@ -1,6 +1,8 @@
 import React from "react";
 import Flag from "../components/flag";
 import { PlayerPictures } from "../components/playersPictures";
+import { InstagramButton } from "../components/buttons/instagramButton";
+import { TwitterButton } from "../components/buttons/twitterButton";
 
 export function Profile() {
   return (
@@ -18,8 +20,9 @@ export function Profile() {
           }}
         >
           <Flag countryCode="italy" altText="Italy Flag" />
-          <p style={{ marginLeft: "10px"}}>Jannik Sinner</p>
-          <div style={{ display: "block", marginLeft: "auto",}}>
+          <p style={{ marginLeft: "10px" }}>Jannik Sinner</p>
+
+          <div style={{ display: "block", marginLeft: "auto" }}>
             <h1
               style={{
                 border: "1px solid black",
