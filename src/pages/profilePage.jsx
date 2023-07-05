@@ -1,8 +1,7 @@
 import React from "react";
 import Flag from "../components/flag";
 import { PlayerPictures } from "../components/playersPictures";
-import { InstagramButton } from "../components/buttons/instagramButton";
-import { TwitterButton } from "../components/buttons/twitterButton";
+import { LikeButton } from "../components/buttons/likeButton";
 
 export function Profile() {
   return (
@@ -38,8 +37,9 @@ export function Profile() {
         </div>
         <div style={{ display: "flex" }}></div>
       </div>
-      <div>
+      <div style={{ position: "relative" }}>
         <PlayerPictures playerLastName="sinner" />
+        <LikeButton />
       </div>
     </div>
   );
