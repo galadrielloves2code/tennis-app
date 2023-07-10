@@ -1,12 +1,13 @@
 import React from "react";
 import { SignInButton } from "./buttons/signInButton";
+import { Logo } from "./logo";
 
 export function Header() {
   return (
     <nav className="navbar navbar-expand-lg bg-body-tertiary">
       <div className="container-fluid">
         <a className="navbar-brand" href="#">
-          Header
+          <Logo />
         </a>
         <button
           className="navbar-toggler"
