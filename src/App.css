@@ -14,5 +14,12 @@ body {
 }
 
 .info {
-  font-size:smaller;
+  font-size: smaller;
 }
+
+.infoBox {
+  padding: 15px;
+  line-height: 0.5;
+}
+
+

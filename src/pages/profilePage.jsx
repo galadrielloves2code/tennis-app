@@ -30,7 +30,7 @@ export function Profile() {
           >
             {" "}
             {/*div for top left including just the summary of the player and WITHOUT ranking */}
-            <div style={{ display: "flex" }}>
+            <div style={{ display: "flex", paddingLeft: "16px" }}>
               {" "}
               {/* flag + player name */}
               <Flag countryCode="italy" altText="Italy Flag" />

@@ -20,14 +20,14 @@ const PlayerProfile = ({ name }) => {
 
   return (
     <div className="container, info" style={{ display: "flex" }}>
-      <div style={{border:"1px solid black"}}>
+      <div className="infoBox" style={{border:"1px solid black"}}>
         <p>Age: {playerData.age}</p>
         <p>Weight: {playerData.weight}</p>
         <p>Height: {playerData.height}</p>
         <p>Birthplace: {playerData.birthplace}</p>
         <p>Turned Pro: {playerData.turned_pro}</p>
       </div>
-      <div style={{border:"1px solid black"}}>
+      <div className="infoBox" style={{border:"1px solid black"}}>
         <p>Plays: {playerData.plays}</p>
         <p>Coach: {playerData.coach}</p>
       </div>
