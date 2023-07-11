@@ -1,0 +1,204 @@
+{
+  "tennis_players": [
+    {
+      "name": "Carlos Alcaraz",
+      "age": 20,
+      "birthplace": "El Palmar, Spain",
+      "weight": "74 kg",
+      "height": "183 cm",
+      "turned_pro": 2018,
+      "plays": "Right-handed, two-handed backhand",
+      "coach": "Juan Carlos Ferrero"
+    },
+    {
+      "name": "Novak Djokovic",
+      "age": 36,
+      "birthplace": "Belgrade, Serbia",
+      "weight": "77 kg",
+      "height": "188 cm",
+      "turned_pro": 2003,
+      "plays": "Right-handed, two-handed backhand",
+      "coach": "Goran Ivanišević"
+    },
+    {
+      "name": "Daniil Medvedev",
+      "age": 27,
+      "birthplace": "Moscow, Russia",
+      "weight": "83 kg",
+      "height": "198 cm",
+      "turned_pro": 2014,
+      "plays": "Right-handed, two-handed backhand",
+      "coach": "Gilles Cervara"
+    },
+    {
+      "name": "Casper Ruud",
+      "age": 24,
+      "birthplace": "Oslo, Norway",
+      "weight": "77 kg",
+      "height": "183 cm",
+      "turned_pro": 2016,
+      "plays": "Right-handed, two-handed backhand",
+      "coach": "Ruud Veli Rud"
+    },
+    {
+      "name": "Stefanos Tsitsipas",
+      "age": 25,
+      "birthplace": "Athens, Greece",
+      "weight": "89 kg",
+      "height": "193 cm",
+      "turned_pro": 2016,
+      "plays": "Right-handed, one-handed backhand",
+      "coach": "Patrick Mouratoglou"
+    },
+    {
+      "name": "Holger Rune",
+      "age": 20,
+      "birthplace": "Copenhagen, Denmark",
+      "weight": "77 kg",
+      "height": "188 cm",
+      "turned_pro": 2021,
+      "plays": "Right-handed, two-handed backhand",
+      "coach": "Juan Carlos Ferrero"
+    },
+    {
+      "name": "Andrey Rublev",
+      "age": 25,
+      "birthplace": "Moscow, Russia",
+      "weight": "70 kg",
+      "height": "188 cm",
+      "turned_pro": 2014,
+      "plays": "Right-handed, two-handed backhand",
+      "coach": "Fernando Vicente"
+    },
+    {
+      "name": "Jannik Sinner",
+      "age": 22,
+      "birthplace": "San Candido, Italy",
+      "weight": "75 kg",
+      "height": "188 cm",
+      "turned_pro": 2018,
+      "plays": "Right-handed, two-handed backhand",
+      "coach": "Riccardo Piatti"
+    },
+    {
+      "name": "Taylor Fritz",
+      "age": 25,
+      "birthplace": "Rancho Santa Fe, USA",
+      "weight": "86 kg",
+      "height": "193 cm",
+      "turned_pro": 2015,
+      "plays": "Right-handed, two-handed backhand",
+      "coach": "Paul Annacone"
+    },
+    {
+      "name": "Frances Tiafoe",
+      "age": 25,
+      "birthplace": "Hyattsville, USA",
+      "weight": "86 kg",
+      "height": "188 cm",
+      "turned_pro": 2015,
+      "plays": "Right-handed, two-handed backhand",
+      "coach": "Zack Evenden"
+    },
+    {
+      "name": "Karen Khachanov",
+      "age": 27,
+      "birthplace": "Moscow, Russia",
+      "weight": "85 kg",
+      "height": "198 cm",
+      "turned_pro": 2013,
+      "plays": "Right-handed, two-handed backhand",
+      "coach": "Fredrik Rosengren"
+    },
+    {
+      "name": "Felix Auger-Aliassime",
+      "age": 22,
+      "birthplace": "Montreal, Canada",
+      "weight": "88 kg",
+      "height": "193 cm",
+      "turned_pro": 2017,
+      "plays": "Right-handed, two-handed backhand",
+      "coach": "Frederic Fontang"
+    },
+    {
+      "name": "Cameron Norrie",
+      "age": 27,
+      "birthplace": "Johannesburg, South Africa",
+      "weight": "73 kg",
+      "height": "188 cm",
+      "turned_pro": 2013,
+      "plays": "Left-handed, two-handed backhand",
+      "coach": "Facundo Lugones"
+    },
+    {
+      "name": "Borna Coric",
+      "age": 26,
+      "birthplace": "Zagreb, Croatia",
+      "weight": "79 kg",
+      "height": "188 cm",
+      "turned_pro": 2013,
+      "plays": "Right-handed, two-handed backhand",
+      "coach": "Riccardo Piatti"
+    },
+    {
+      "name": "Tommy Paul",
+      "age": 26,
+      "birthplace": "New Jersey, USA",
+      "weight": "80 kg",
+      "height": "188 cm",
+      "turned_pro": 2015,
+      "plays": "Right-handed, two-handed backhand",
+      "coach": "Diego Moyano"
+    },
+    {
+      "name": "Lorenzo Musetti",
+      "age": 21,
+      "birthplace": "Carrara, Italy",
+      "weight": "75 kg",
+      "height": "185 cm",
+      "turned_pro": 2019,
+      "plays": "Right-handed, two-handed backhand",
+      "coach": "Andrea Volpini"
+    },
+    {
+      "name": "Alex de Minaur",
+      "age": 24,
+      "birthplace": "Sydney, Australia",
+      "weight": "69 kg",
+      "height": "183 cm",
+      "turned_pro": 2015,
+      "plays": "Right-handed, two-handed backhand",
+      "coach": "Adolfo Gutierrez"
+    },
+    {
+      "name": "Hubert Hurkacz",
+      "age": 26,
+      "birthplace": "Wrocław, Poland",
+      "weight": "82 kg",
+      "height": "196 cm",
+      "turned_pro": 2015,
+      "plays": "Right-handed, two-handed backhand",
+      "coach": "Craig Boynton"
+    },
+    {
+      "name": "Francisco Cerundolo",
+      "age": 25,
+      "birthplace": "Buenos Aires, Argentina",
+      "weight": "80 kg",
+      "height": "185 cm",
+      "turned_pro": 2017,
+      "plays": "Right-handed, two-handed backhand",
+      "coach": null
+    },
+    {
+      "name": "Pablo Carreno Busta",
+      "age": 32,
+      "birthplace": "Gijón, Spain",
+      "weight": "77 kg",
+      "height": "188 cm",
+      "turned_pro": 2009,
+      "plays": "Right-handed, two-handed backhand",
+      "coach": "Samuel López"
+    }
+  ]
+}
