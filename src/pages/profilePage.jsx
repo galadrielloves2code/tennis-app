@@ -4,6 +4,8 @@ import { PlayerPictures } from "../components/playersPictures";
 import { LikeButton } from "../components/buttons/likeButton";
 import { InstagramButton } from "../components/buttons/instagramButton";
 import { TwitterButton } from "../components/buttons/twitterButton";
+import PlayerProfile from "../components/profileSummary";
+import "../App.css"
 
 export function Profile() {
   return (
@@ -28,7 +30,7 @@ export function Profile() {
           >
             {" "}
             {/*div for top left including just the summary of the player and WITHOUT ranking */}
-            <div style={{display:"flex"}}>
+            <div style={{ display: "flex" }}>
               {" "}
               {/* flag + player name */}
               <Flag countryCode="italy" altText="Italy Flag" />
@@ -46,8 +48,10 @@ export function Profile() {
               <InstagramButton />
               <TwitterButton />
             </div>
-            <div> {/* div for summary info for the player */}
-            
+            <div>
+              {" "}
+              {/* div for summary info for the player */}
+              <PlayerProfile name="Jannik Sinner" />
             </div>
           </div>
           <div style={{ display: "flex" }}> {/* div for ranking */}</div>
