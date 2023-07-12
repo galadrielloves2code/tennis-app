@@ -5,7 +5,12 @@ export function PlayerPictures({ playerLastName }) {
 
   return (
     <div>
-      <img src={imagePath} alt={playerLastName} className="container" style={{paddingLeft: "5px"}}/>
+      <img
+        src={imagePath}
+        alt={playerLastName}
+        className="container"
+        style={{ paddingLeft: "5px", height: "15.5rem" }}
+      />
     </div>
   );
 }
