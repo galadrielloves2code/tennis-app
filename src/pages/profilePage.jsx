@@ -5,11 +5,12 @@ import { LikeButton } from "../components/buttons/likeButton";
 import { InstagramButton } from "../components/buttons/instagramButton";
 import { TwitterButton } from "../components/buttons/twitterButton";
 import PlayerProfile from "../components/profileSummary";
-import "../App.css"
+import "../App.css";
+import RankingBox from "../components/rankingBox";
 
 export function Profile() {
   return (
-    <div>
+    <div className="container">
       {" "}
       {/*div for entire page*/}
       <div style={{ display: "flex" }}>
@@ -24,7 +25,6 @@ export function Profile() {
           <div
             className="container"
             style={{
-              border: "1px solid black",
               padding: "10px",
             }}
           >
@@ -39,7 +39,6 @@ export function Profile() {
             <div
               className="container"
               style={{
-                border: "1px solid black",
                 display: "flex",
               }}
             >
@@ -48,15 +47,21 @@ export function Profile() {
               <InstagramButton />
               <TwitterButton />
             </div>
-            <div>
-              {" "}
-              {/* div for summary info for the player */}
-              <PlayerProfile name="Jannik Sinner" />
+            <div style={{ display: "flex", justifyContent: "space-between" }}>
+              <div>
+                {" "}
+                {/* div for summary info for the player */}
+                <PlayerProfile name="Jannik Sinner" />
+              </div>
+              <div style={{ display: "flex" }}>
+                {" "}
+                {/* div for ranking */}
+                <RankingBox name="Jannik Sinner" />
+              </div>
             </div>
           </div>
-          <div style={{ display: "flex" }}> {/* div for ranking */}</div>
         </div>
-        <div style={{ position: "relative" }}>
+        <div>
           {" "}
           {/* div for top right of the page including just profile picture and the like button on it */}
           <PlayerPictures playerLastName="sinner" />
