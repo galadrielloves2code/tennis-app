@@ -7,6 +7,7 @@ import { TwitterButton } from "../components/buttons/twitterButton";
 import PlayerProfile from "../components/profileSummary";
 import "../App.css";
 import RankingBox from "../components/rankingBox";
+import { PlayersDetailedInfo } from "../components/playersDetailedInfo";
 
 export function Profile() {
   return (
@@ -67,6 +68,9 @@ export function Profile() {
           <PlayerPictures playerLastName="sinner" />
           <LikeButton />
         </div>
+      </div>
+      <div>
+        <PlayersDetailedInfo/>
       </div>
     </div>
   );
