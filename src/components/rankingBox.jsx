@@ -32,7 +32,7 @@ const RankingBox = ({ name }) => {
           height: "100px",
           width:"80px",
           textAlign:"center",
-          alignItems:"center"
+          alignItems:"center",
         }}
       >
         <div style={{ display: "flex", justifyContent: "center" }}>
