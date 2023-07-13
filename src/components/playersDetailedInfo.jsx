@@ -3,56 +3,56 @@ import React from "react";
 export function PlayersDetailedInfo() {
   return (
     <div>
-      <nav id="navbar-example2" class="navbar bg-body-tertiary px-3 mb-3">
-        <ul class="nav nav-pills">
-          <li class="nav-item">
+      <nav id="navbar-example2" className="navbar bg-body-tertiary px-3 mb-3">
+        <ul className="nav nav-pills">
+          <li className="nav-item">
             <a
-              class="nav-link"
+              className="nav-link"
               href="#scrollspyHeading1"
               style={{ color: "black" }}
             >
               Bio
             </a>
           </li>
-          <li class="nav-item">
+          <li className="nav-item">
             <a
-              class="nav-link"
+              className="nav-link"
               href="#scrollspyHeading2"
               style={{ color: "black" }}
             >
               Activity
             </a>
           </li>
-          <li class="nav-item">
+          <li className="nav-item">
             <a
-              class="nav-link"
+              className="nav-link"
               href="#scrollspyHeading3"
               style={{ color: "black" }}
             >
               Win/Loss
             </a>
           </li>
-          <li class="nav-item">
+          <li className="nav-item">
             <a
-              class="nav-link"
+              className="nav-link"
               href="#scrollspyHeading4"
               style={{ color: "black" }}
             >
               Titles/Finals
             </a>
           </li>
-          <li class="nav-item">
+          <li className="nav-item">
             <a
-              class="nav-link"
+              className="nav-link"
               href="#scrollspyHeading5"
               style={{ color: "black" }}
             >
               Stats
             </a>
           </li>
-          <li class="nav-item">
+          <li className="nav-item">
             <a
-              class="nav-link"
+              className="nav-link"
               href="#scrollspyHeading6"
               style={{ color: "black" }}
             >
@@ -66,8 +66,8 @@ export function PlayersDetailedInfo() {
         data-bs-target="#navbar-example2"
         data-bs-root-margin="0px 0px -40%"
         data-bs-smooth-scroll="true"
-        class="scrollspy-example bg-body-tertiary p-3 rounded-2"
-        tabindex="0"
+        className="scrollspy-example bg-body-tertiary p-3 rounded-2"
+        tabIndex="0"
       >
         <h4 id="scrollspyHeading1"></h4>
         <p>
