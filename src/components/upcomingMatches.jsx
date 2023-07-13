@@ -1,5 +1,6 @@
 import React from "react";
 import { PlayerPictures } from "./playersPictures";
+import { PlayerIcon } from "./playersIcon";
 export function UpcomingMatches() {
   return (
     <div>
@@ -13,6 +14,7 @@ export function UpcomingMatches() {
             ATP 2000 Roland-Garros Paris, France May, 29 Round of 128 - Court
             Philippe Chatrier
           </p>
+          <PlayerIcon playerLastName="sinner" />
           <a href="#" className="btn btn-primary">
             See
           </a>

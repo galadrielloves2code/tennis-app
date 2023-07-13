@@ -11,7 +11,7 @@ import { UpcomingMatches } from "../components/upcomingMatches";
 
 export function Profile() {
   return (
-    <div className="container" style={{display:"flex"}}>
+    <div className="container" style={{ display: "flex" }}>
       <div>
         {" "}
         {/*div for entire page*/}
@@ -35,7 +35,7 @@ export function Profile() {
               <div style={{ display: "flex", paddingLeft: "16px" }}>
                 {" "}
                 {/* flag + player name */}
-                <Flag countryCode="italy" altText="Italy Flag" />
+                <Flag countryCode="IT" altText="Italy Flag" />
                 <p style={{ marginLeft: "10px" }}>Jannik Sinner</p>
               </div>
               <div
@@ -69,10 +69,9 @@ export function Profile() {
         </div>
       </div>
       <div>
-        <UpcomingMatches/>
-        <LikeButton style={{border:"1px solid red"}}/>
+        <UpcomingMatches />
+        <LikeButton style={{ border: "1px solid red" }} />
       </div>
     </div>
-    
   );
 }
