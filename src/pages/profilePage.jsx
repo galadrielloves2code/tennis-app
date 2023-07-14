@@ -35,7 +35,11 @@ export function Profile() {
               <div style={{ display: "flex", paddingLeft: "16px" }}>
                 {" "}
                 {/* flag + player name */}
-                <Flag countryCode="IT" altText="Italy Flag" />
+                <Flag
+                  countryCode="IT"
+                  altText="Italy Flag"
+                  style={{ height: "20px" }}
+                />
                 <p style={{ marginLeft: "10px" }}>Jannik Sinner</p>
               </div>
               <div

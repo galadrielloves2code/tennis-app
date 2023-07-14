@@ -15,7 +15,10 @@ export function UpcomingMatches() {
             Philippe Chatrier
           </p>
           <PlayerIcon playerLastName="sinner" />
-          <a href="#" className="btn btn-primary">
+          <PlayerIcon playerLastName="djokovic" />
+        </div>
+        <div style={{ marginLeft: "15px", marginBottom:"20px"}}>
+          <a href="#" className="btn btn-success" style={{ width: "80px" }}>
             See
           </a>
         </div>
