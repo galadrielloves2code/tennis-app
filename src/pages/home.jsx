@@ -1,12 +1,11 @@
 import React from "react";
 import { Header } from "../components/header";
-import { CarouselComponent } from "../components/carousel";
+import { RankingList } from "./rankingPage";
 
 export function Home() {
   return (
     <div>
       <Header />
-      <CarouselComponent />
     </div>
   );
 }
