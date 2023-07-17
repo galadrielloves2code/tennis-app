@@ -1,12 +1,12 @@
 import React from "react";
 import { Header } from "../components/header";
-import { PlayerCard } from "../components/playersCard";
+import { PlayersPage } from "./playersPage";
 
 export function Home() {
   return (
     <div>
       <Header />
-      <PlayerCard/>
+      <PlayersPage />
     </div>
   );
 }
