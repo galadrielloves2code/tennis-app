@@ -1,11 +1,12 @@
 import React from "react";
 import { Header } from "../components/header";
-import { RankingList } from "./rankingPage";
+import { PlayerCard } from "../components/playersCard";
 
 export function Home() {
   return (
     <div>
       <Header />
+      <PlayerCard/>
     </div>
   );
 }
