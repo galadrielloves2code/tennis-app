@@ -6,7 +6,7 @@ export function SignInButton() {
       <button
         type="button"
         className="btn btn-success rounded"
-        style={{ backgroundColor: "#007E00" }}
+        style={{ backgroundColor: "#007E00", marginLeft: "70px" }}
       >
         Sign in
       </button>
