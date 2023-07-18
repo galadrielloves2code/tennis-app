@@ -5,7 +5,7 @@ import { Logo } from "./logo";
 
 export function Header() {
   return (
-    <div>
+    <div className="container-fluid">
       <nav className="navbar navbar-expand-lg">
         <div className="container-fluid">
           <Logo />
