@@ -1,35 +1,34 @@
-import React from "react";
+import React, { useState } from "react";
 import { PlayerCard } from "../components/playersCard";
 
 export function PlayersPage() {
+  const [count, setCount] = useState(1);
+
+  const renderPlayerCards = () => {
+    const playerCards = [];
+    for (let i = 0; i <= 9; i++) {
+      playerCards.push(<PlayerCard key={i} rank={i} />);
+    }
+    return playerCards;
+  };
+
+  if (count < 9) {
+    setCount(count + 1);
+  }
+
   return (
-    <div>
-      <div
-        className="container"
-        style={{
-          display: "flex",
-          justifyContent: "space-evenly",
-          marginTop: "30px",
-          marginBottom: "50px",
-        }}
-      >
-        <PlayerCard />
-        <PlayerCard />
-        <PlayerCard />
-        <PlayerCard />
-      </div>
-      <div
-        className="container"
-        style={{
-          display: "flex",
-          justifyContent: "space-evenly",
-        }}
-      >
-        <PlayerCard />
-        <PlayerCard />
-        <PlayerCard />
-        <PlayerCard />
-      </div>
+    <div
+      className="container"
+      style={{
+        display: "flex",
+        justifyContent:"space-between",
+        marginTop: "30px",
+        marginBottom: "50px",
+        width: "65rem",
+        flexWrap: "wrap",
+      }}
+    >
+      {renderPlayerCards()}
     </div>
   );
 }
