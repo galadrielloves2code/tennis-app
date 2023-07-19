@@ -1,4 +1,5 @@
 import React from "react";
+import { WatchButton } from "./buttons/watchButton";
 
 export function HomeTop() {
   return (
@@ -8,6 +9,37 @@ export function HomeTop() {
         alt="background"
         className="container-fluid"
       />
+      <div
+        style={{
+          position: "absolute",
+          bottom: "210px",
+          left: "380px",
+          display: "flex",
+          flexDirection: "column",
+          textAlign: "center",
+        }}
+      >
+        <div
+          style={{
+            color: "#FFF",
+            fontFamily: "Bungee Shade",
+            fontSize: "10vw",
+            fontWeight: "bold",
+            letterSpacing: "1.5vw",
+          }}
+        >
+          <h1>TENNIS</h1>
+        </div>
+        <div
+          style={{
+            color: "#FFF",
+            fontFamily: "Poppins",
+          }}
+        >
+          <h4>News-Scores-Match Reports</h4>
+        </div>
+        <WatchButton />
+      </div>
       <div
         style={{
           position: "absolute",
@@ -23,31 +55,6 @@ export function HomeTop() {
           style={{ width: "100%", height: "100%" }}
           alt="ball"
         />
-      </div>
-      <div
-        style={{
-          position: "absolute",
-          left: "390px",
-          bottom: "320px",
-          color: "#FFF",
-          fontFamily: "Bungee Shade",
-          fontSize: "10vw",
-          fontWeight: "bold",
-          letterSpacing: "1.5vw",
-        }}
-      >
-        <h1>TENNIS</h1>
-      </div>
-      <div
-        style={{
-          position: "absolute",
-          right: "420px",
-          bottom: "280px",
-          color: "#FFF",
-          fontFamily: "Poppins",
-        }}
-      >
-        <h4>News-Scores-Match Reports</h4>
       </div>
     </div>
   );
