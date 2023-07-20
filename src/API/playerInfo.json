@@ -13,7 +13,8 @@
       "coach": "Juan Carlos Ferrero",
       "countryCode": "ES",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 19
     },
     {
       "id": 2,
@@ -28,7 +29,8 @@
       "coach": "Goran Ivanišević",
       "countryCode": "RS",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 17
     },
     {
       "id": 3,
@@ -43,7 +45,8 @@
       "coach": "Gilles Cervara",
       "countryCode": "RU",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 23
     },
     {
       "id": 4,
@@ -58,7 +61,8 @@
       "coach": "Ruud Veli Rud",
       "countryCode": "NO",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 23
     },
     {
       "id": 5,
@@ -73,7 +77,8 @@
       "coach": "Patrick Mouratoglou",
       "countryCode": "GR",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 22
     },
     {
       "id": 6,
@@ -88,7 +93,8 @@
       "coach": "Juan Carlos Ferrero",
       "countryCode": "DK",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 25
     },
     {
       "id": 7,
@@ -103,7 +109,8 @@
       "coach": "Fernando Vicente",
       "countryCode": "RU",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 25
     },
     {
       "id": 8,
@@ -118,7 +125,8 @@
       "coach": "Riccardo Piatti",
       "countryCode": "IT",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 23
     },
     {
       "id": 9,
@@ -133,7 +141,8 @@
       "coach": "Paul Annacone",
       "countryCode": "US",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 25
     },
     {
       "id": 10,
@@ -148,7 +157,8 @@
       "coach": "Zack Evenden",
       "countryCode": "US",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 23
     },
     {
       "id": 11,
@@ -163,7 +173,8 @@
       "coach": "Fredrik Rosengren",
       "countryCode": "RU",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 21
     },
     {
       "id": 12,
@@ -178,7 +189,8 @@
       "coach": "Frederic Fontang",
       "countryCode": "CA",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 22
     },
     {
       "id": 13,
@@ -193,7 +205,8 @@
       "coach": "Facundo Lugones",
       "countryCode": "ZA",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 23
     },
     {
       "id": 14,
@@ -208,7 +221,8 @@
       "coach": "Riccardo Piatti",
       "countryCode": "HR",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 25
     },
     {
       "id": 15,
@@ -223,7 +237,8 @@
       "coach": "Diego Moyano",
       "countryCode": "US",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 21
     },
     {
       "id": 16,
@@ -238,7 +253,8 @@
       "coach": "Andrea Volpini",
       "countryCode": "IT",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 27
     },
     {
       "id": 17,
@@ -253,7 +269,8 @@
       "coach": "Adolfo Gutierrez",
       "countryCode": "AU",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 24
     },
     {
       "id": 18,
@@ -268,7 +285,8 @@
       "coach": "Craig Boynton",
       "countryCode": "PL",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 24
     },
     {
       "id": 19,
@@ -283,7 +301,8 @@
       "coach": "Kevin Konfederak",
       "countryCode": "AR",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 22
     },
     {
       "id": 20,
@@ -298,7 +317,8 @@
       "coach": "Samuel López",
       "countryCode": "ES",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 26
     },
     {
       "id": 21,
@@ -313,7 +333,8 @@
       "coach": "David Ferrer",
       "countryCode": "DE",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 23
     },
     {
       "id": 22,
@@ -328,7 +349,8 @@
       "coach": "Carsten Arriens",
       "countryCode": "DE",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 18
     },
     {
       "id": 23,
@@ -343,22 +365,8 @@
       "coach": "Pepe Vendrell",
       "countryCode": "ES",
       "+/-points": 0,
-      "+/-rank": 0
-    },
-    {
-      "id": 24,
-      "rank": 24,
-      "name": "Grigor Dimitrov",
-      "age": 30,
-      "birthplace": "Haskovo, Bulgaria",
-      "weight": "81 kg",
-      "height": "191 cm",
-      "turned_pro": 2008,
-      "plays": "Right-handed, one-handed backhand",
-      "coach": "Christian Groh",
-      "countryCode": "BG",
-      "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 23
     },
     {
       "id": 25,
@@ -373,7 +381,8 @@
       "coach": "Sebastien Grosjean",
       "countryCode": "US",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 25
     },
     {
       "id": 26,
@@ -388,22 +397,8 @@
       "coach": "Stanislav Bublik",
       "countryCode": "KZ",
       "+/-points": 0,
-      "+/-rank": 0
-    },
-    {
-      "id": 27,
-      "rank": 27,
-      "name": "Yoshihito Nishioka",
-      "age": 25,
-      "birthplace": "Mie, Japan",
-      "weight": "65 kg",
-      "height": "170 cm",
-      "turned_pro": 2012,
-      "plays": "Left-handed, two-handed backhand",
-      "coach": "Takao Kuwahara",
-      "countryCode": "JP",
-      "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 26
     },
     {
       "id": 28,
@@ -418,22 +413,8 @@
       "coach": "Hernan Gumy",
       "countryCode": "CL",
       "+/-points": 0,
-      "+/-rank": 0
-    },
-    {
-      "id": 29,
-      "rank": 29,
-      "name": "Denis Shapovalov",
-      "age": 22,
-      "birthplace": "Tel Aviv, Israel",
-      "weight": "78 kg",
-      "height": "185 cm",
-      "turned_pro": 2016,
-      "plays": "Left-handed, one-handed backhand",
-      "coach": "Mikhail Youzhny",
-      "countryCode": "CA",
-      "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 28
     },
     {
       "id": 30,
@@ -448,7 +429,8 @@
       "coach": "Mark Hilton",
       "countryCode": "GB",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 30
     },
     {
       "id": 31,
@@ -463,7 +445,72 @@
       "coach": "Rogier Wassen",
       "countryCode": "NL",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 31
+    },
+    {
+      "id": 27,
+      "rank": 27,
+      "name": "Yoshihito Nishioka",
+      "age": 25,
+      "birthplace": "Mie, Japan",
+      "weight": "65 kg",
+      "height": "170 cm",
+      "turned_pro": 2012,
+      "plays": "Left-handed, two-handed backhand",
+      "coach": "Takao Kuwahara",
+      "countryCode": "JP",
+      "+/-points": 0,
+      "+/-rank": 0,
+      "tournPlayed": 27
+    },
+    {
+      "id": 28,
+      "rank": 28,
+      "name": "Nicolas Jarry",
+      "age": 25,
+      "birthplace": "Santiago, Chile",
+      "weight": "90 kg",
+      "height": "198 cm",
+      "turned_pro": 2014,
+      "plays": "Right-handed, two-handed backhand",
+      "coach": "Hernan Gumy",
+      "countryCode": "CL",
+      "+/-points": 0,
+      "+/-rank": 0,
+      "tournPlayed": 28
+    },
+    {
+      "id": 29,
+      "rank": 29,
+      "name": "Denis Shapovalov",
+      "age": 22,
+      "birthplace": "Tel Aviv, Israel",
+      "weight": "78 kg",
+      "height": "185 cm",
+      "turned_pro": 2016,
+      "plays": "Left-handed, one-handed backhand",
+      "coach": "Mikhail Youzhny",
+      "countryCode": "CA",
+      "+/-points": 0,
+      "+/-rank": 0,
+      "tournPlayed": 20
+    },
+    {
+      "id": 30,
+      "rank": 30,
+      "name": "Daniel Evans",
+      "age": 31,
+      "birthplace": "Birmingham, UK",
+      "weight": "72 kg",
+      "height": "175 cm",
+      "turned_pro": 2006,
+      "plays": "Right-handed, one-handed backhand",
+      "coach": "Mark Hilton",
+      "countryCode": "GB",
+      "+/-points": 0,
+      "+/-rank": 0,
+      "tournPlayed": 27
     },
     {
       "id": 32,
@@ -478,7 +525,8 @@
       "coach": "Daniel Orsanic",
       "countryCode": "AR",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 30
     },
     {
       "id": 33,
@@ -493,7 +541,8 @@
       "coach": "Rusty",
       "countryCode": "AU",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 25
     },
     {
       "id": 34,
@@ -508,7 +557,8 @@
       "coach": "Javier Ferrer",
       "countryCode": "ES",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 26
     },
     {
       "id": 35,
@@ -523,7 +573,8 @@
       "coach": "Olivier Ramos",
       "countryCode": "FR",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 14
     },
     {
       "id": 36,
@@ -538,7 +589,8 @@
       "coach": "Paul Shelton",
       "countryCode": "US",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 31
     },
     {
       "id": 37,
@@ -553,7 +605,8 @@
       "coach": "Miroslav Navratil",
       "countryCode": "CZ",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 28
     },
     {
       "id": 38,
@@ -568,7 +621,8 @@
       "coach": "Vincenzo Santopadre",
       "countryCode": "IT",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 27
     },
     {
       "id": 39,
@@ -583,7 +637,8 @@
       "coach": "Cyril Brechbühl",
       "countryCode": "FR",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 30
     },
     {
       "id": 40,
@@ -598,7 +653,8 @@
       "coach": "Jamie Delgado",
       "countryCode": "GB",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 25
     },
     {
       "id": 41,
@@ -613,7 +669,8 @@
       "coach": "Dusan Vemic",
       "countryCode": "RS",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 22
     },
     {
       "id": 42,
@@ -628,7 +685,8 @@
       "coach": "Gianluca Serratore",
       "countryCode": "IT",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 29
     },
     {
       "id": 43,
@@ -643,7 +701,8 @@
       "coach": "Willie Eubanks",
       "countryCode": "US",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 19
     },
     {
       "id": 44,
@@ -658,7 +717,8 @@
       "coach": "Hugo Ekker",
       "countryCode": "NL",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 28
     },
     {
       "id": 45,
@@ -673,7 +733,8 @@
       "coach": "Hans-Dieter Beutel",
       "countryCode": "DE",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 27
     },
     {
       "id": 46,
@@ -688,7 +749,8 @@
       "coach": "Diego Junqueira",
       "countryCode": "AR",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 26
     },
     {
       "id": 47,
@@ -703,7 +765,8 @@
       "coach": "Federico Ricci",
       "countryCode": "FI",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 26
     },
     {
       "id": 48,
@@ -718,7 +781,8 @@
       "coach": "David Kass",
       "countryCode": "US",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 30
     },
     {
       "id": 49,
@@ -733,7 +797,8 @@
       "coach": "Jonathan Dasnières de Veigy",
       "countryCode": "FR",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 32
     },
     {
       "id": 50,
@@ -748,7 +813,8 @@
       "coach": "Yuri Evseyev",
       "countryCode": "RU",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 30
     },
     {
       "id": 51,
@@ -763,7 +829,8 @@
       "coach": "Sergi Bruguera",
       "countryCode": "FR",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 31
     },
     {
       "id": 52,
@@ -778,7 +845,8 @@
       "coach": "Peter Lucassen",
       "countryCode": "CN",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 26
     },
     {
       "id": 53,
@@ -793,7 +861,8 @@
       "coach": "Hugo Armando",
       "countryCode": "ES",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 28
     },
     {
       "id": 54,
@@ -808,7 +877,8 @@
       "coach": "Mat Cloer",
       "countryCode": "US",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 27
     },
     {
       "id": 55,
@@ -823,7 +893,8 @@
       "coach": "Pat Harrison",
       "countryCode": "US",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 25
     },
     {
       "id": 56,
@@ -838,7 +909,8 @@
       "coach": "Jose Perlas",
       "countryCode": "RS",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 24
     },
     {
       "id": 57,
@@ -853,7 +925,8 @@
       "coach": "Carlos Carballes Baena",
       "countryCode": "ES",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 28
     },
     {
       "id": 58,
@@ -868,7 +941,8 @@
       "coach": "Robert Lindstedt",
       "countryCode": "FR",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 30
     },
     {
       "id": 59,
@@ -883,7 +957,8 @@
       "coach": "Robin Soderling",
       "countryCode": "SE",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 29
     },
     {
       "id": 60,
@@ -898,7 +973,8 @@
       "coach": "Dejan Petrovic",
       "countryCode": "RS",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 23
     },
     {
       "id": 61,
@@ -913,7 +989,8 @@
       "coach": "Unknown",
       "countryCode": "FR",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 27
     },
     {
       "id": 62,
@@ -928,7 +1005,8 @@
       "coach": "Unknown",
       "countryCode": "CN",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 29
     },
     {
       "id": 63,
@@ -943,7 +1021,8 @@
       "coach": "Unknown",
       "countryCode": "PE",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 28
     },
     {
       "id": 64,
@@ -958,7 +1037,8 @@
       "coach": "Unknown",
       "countryCode": "AU",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 29
     },
     {
       "id": 65,
@@ -973,7 +1053,8 @@
       "coach": "Unknown",
       "countryCode": "US",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 27
     },
     {
       "id": 66,
@@ -988,7 +1069,8 @@
       "coach": "Unknown",
       "countryCode": "DE",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 29
     },
     {
       "id": 67,
@@ -1003,7 +1085,8 @@
       "coach": "Attila Savolt",
       "countryCode": "HU",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 23
     },
     {
       "id": 68,
@@ -1018,7 +1101,8 @@
       "coach": "Sebastian Prieto",
       "countryCode": "AR",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 29
     },
     {
       "id": 69,
@@ -1033,7 +1117,8 @@
       "coach": "Unknown",
       "countryCode": "PT",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 23
     },
     {
       "id": 70,
@@ -1048,7 +1133,8 @@
       "coach": "Des Tyson",
       "countryCode": "AU",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 24
     },
     {
       "id": 71,
@@ -1063,7 +1149,8 @@
       "coach": "Franck Binisti",
       "countryCode": "FR",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 27
     },
     {
       "id": 72,
@@ -1078,7 +1165,8 @@
       "coach": "Maximilian Ofner",
       "countryCode": "AT",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 29
     },
     {
       "id": 73,
@@ -1093,7 +1181,8 @@
       "coach": "Rory O'Neill",
       "countryCode": "AU",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 23
     },
     {
       "id": 74,
@@ -1108,7 +1197,8 @@
       "coach": "Unknown",
       "countryCode": "FR",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 29
     },
     {
       "id": 75,
@@ -1123,7 +1213,8 @@
       "coach": "Unknown",
       "countryCode": "BE",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 27
     },
     {
       "id": 76,
@@ -1138,7 +1229,8 @@
       "coach": "Jose Maria Diaz",
       "countryCode": "ES",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 29
     },
     {
       "id": 77,
@@ -1153,7 +1245,8 @@
       "coach": "Heath Downie",
       "countryCode": "AU",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 23
     },
     {
       "id": 78,
@@ -1168,7 +1261,8 @@
       "coach": "Mark Hilton",
       "countryCode": "GB",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 29
     },
     {
       "id": 79,
@@ -1183,7 +1277,8 @@
       "coach": "Sam Aliassime",
       "countryCode": "FR",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 23
     },
     {
       "id": 80,
@@ -1198,7 +1293,8 @@
       "coach": "Unknown",
       "countryCode": "IT",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 24
     },
     {
       "id": 81,
@@ -1213,7 +1309,8 @@
       "coach": "Unknown",
       "countryCode": "CH",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 23
     },
     {
       "id": 82,
@@ -1228,7 +1325,8 @@
       "coach": "Unknown",
       "countryCode": "FR",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 25
     },
     {
       "id": 83,
@@ -1243,7 +1341,8 @@
       "coach": "Unknown",
       "countryCode": "SK",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 31
     },
     {
       "id": 84,
@@ -1258,7 +1357,8 @@
       "coach": "Unknown",
       "countryCode": "FR",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 32
     },
     {
       "id": 85,
@@ -1273,7 +1373,8 @@
       "coach": "Felipe Beron",
       "countryCode": "CO",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 25
     },
     {
       "id": 86,
@@ -1288,7 +1389,8 @@
       "coach": "Unknown",
       "countryCode": "DE",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 28
     },
     {
       "id": 87,
@@ -1303,7 +1405,8 @@
       "coach": "Unknown",
       "countryCode": "AU",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 19
     },
     {
       "id": 88,
@@ -1318,7 +1421,8 @@
       "coach": "Magnus Norman",
       "countryCode": "CH",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 20
     },
     {
       "id": 89,
@@ -1333,7 +1437,8 @@
       "coach": "Davide Scala",
       "countryCode": "IT",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 24
     },
     {
       "id": 90,
@@ -1348,7 +1453,8 @@
       "coach": "Todd Langman",
       "countryCode": "AU",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 28
     },
     {
       "id": 91,
@@ -1363,7 +1469,8 @@
       "coach": "Nicolas Massu",
       "countryCode": "AT",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 26
     },
     {
       "id": 92,
@@ -1378,7 +1485,8 @@
       "coach": "Unknown",
       "countryCode": "RU",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 25
     },
     {
       "id": 93,
@@ -1393,7 +1501,8 @@
       "coach": "Pieter Heemeryck",
       "countryCode": "AU",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 26
     },
     {
       "id": 94,
@@ -1408,7 +1517,8 @@
       "coach": "Unknown",
       "countryCode": "FR",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 31
     },
     {
       "id": 95,
@@ -1423,7 +1533,8 @@
       "coach": "Joao Zwetsch",
       "countryCode": "BR",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 29
     },
     {
       "id": 96,
@@ -1438,7 +1549,8 @@
       "coach": "Unknown",
       "countryCode": "HU",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 30
     },
     {
       "id": 97,
@@ -1453,7 +1565,8 @@
       "coach": "Unknown",
       "countryCode": "RU",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 25
     },
     {
       "id": 98,
@@ -1468,7 +1581,8 @@
       "coach": "Juan Ignacio Chela",
       "countryCode": "AR",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 27
     },
     {
       "id": 99,
@@ -1483,7 +1597,8 @@
       "coach": "Unknown",
       "countryCode": "KR",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 27
     },
     {
       "id": 100,
@@ -1498,7 +1613,8 @@
       "coach": "Wayne Ferreira",
       "countryCode": "BA",
       "+/-points": 0,
-      "+/-rank": 0
+      "+/-rank": 0,
+      "tournPlayed": 25
     }
   ]
 }
