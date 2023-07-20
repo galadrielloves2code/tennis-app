@@ -13,7 +13,7 @@ export function HomeTop() {
         style={{
           position: "absolute",
           bottom: "210px",
-          left: "380px",
+          left: "450px",
           display: "flex",
           flexDirection: "column",
           textAlign: "center",
