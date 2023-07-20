@@ -1,9 +1,10 @@
 import React from "react";
+import playerInfo from "../API/playerInfo.json";
 
 export function RankingList() {
   return (
     <table
-      className="table table-borderless table-hover"
+      className=" container table table-borderless table-hover"
       style={{ marginTop: "50px" }}
     >
       <thead>
@@ -17,29 +18,16 @@ export function RankingList() {
         </tr>
       </thead>
       <tbody>
-        <tr>
-          <th scope="row">1</th>
-          <td>Mark</td>
-          <td>Otto</td>
-          <td>@mdo</td>
-          <td>@mdo</td>
-          <td>@mdo</td>
-        </tr>
-        <tr>
-          <th scope="row">2</th>
-          <td>Jacob</td>
-          <td>Thornton</td>
-          <td>@fat</td>
-          <td>@fat</td>
-          <td>@fat</td>
-        </tr>
-        <tr>
-          <th scope="row">3</th>
-          <td colspan="2">Larry the Bird</td>
-          <td>@twitter</td>
-          <td>@twitter</td>
-          <td>@twitter</td>
-        </tr>
+        {playerInfo.tennis_players.map((player) => (
+          <tr key={player.id}>
+            <td scope="row">{player.rank}</td>
+            <td>{player["+/-rank"] !== 0 ? player["+/-rank"] : "-"}</td>
+            <td>{player.name}</td>
+            <td>{player.points}</td>
+            <td>{player["+/-points"] !== 0 ? player["+/-points"] : "-"}</td>
+            <td>{player.tournPlayed}</td>
+          </tr>
+        ))}
       </tbody>
     </table>
   );
