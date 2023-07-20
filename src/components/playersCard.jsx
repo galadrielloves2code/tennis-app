@@ -4,7 +4,20 @@ import playerInfo from "../API/playerInfo.json";
 export function PlayerCard({ rank }) {
   const playerRanking = playerInfo.tennis_players[rank];
   const playerName = playerRanking.name;
-  const imagePath = `../assets/playersIcons/${playerRanking.rank}.png`;
+  const playerImagePath = `../assets/playersIcons/${playerRanking.rank}.png`;
+  const placeholderImagePath = "../assets/playersIcons/999.png";
+
+  const [imagePath, setImagePath] = useState(playerImagePath);
+
+  // Function to check if the player's image exists, otherwise use the placeholder image
+  const checkImageExists = (imagePath, placeholderPath) => {
+    const img = new Image();
+    img.src = imagePath;
+    img.onerror = () => setImagePath(placeholderPath);
+  };
+
+  // Check if the player's image exists, if not, set the placeholder image
+  checkImageExists(playerImagePath, placeholderImagePath);
 
   return (
     <div

@@ -6,13 +6,13 @@ export function PlayersPage() {
 
   const renderPlayerCards = () => {
     const playerCards = [];
-    for (let i = 0; i <= 9; i++) {
+    for (let i = 0; i <= 99; i++) {
       playerCards.push(<PlayerCard key={i} rank={i} />);
     }
     return playerCards;
   };
 
-  if (count < 9) {
+  if (count < 20) {
     setCount(count + 1);
   }
 
