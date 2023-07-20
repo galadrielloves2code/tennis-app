@@ -14,7 +14,8 @@
       "countryCode": "ES",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 19
+      "tournPlayed": 19,
+      "points": 9675
     },
     {
       "id": 2,
@@ -30,7 +31,8 @@
       "countryCode": "RS",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 17
+      "tournPlayed": 17,
+      "points": 8795
     },
     {
       "id": 3,
@@ -46,7 +48,8 @@
       "countryCode": "RU",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 23
+      "tournPlayed": 23,
+      "points": 6520
     },
     {
       "id": 4,
@@ -62,7 +65,8 @@
       "countryCode": "NO",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 23
+      "tournPlayed": 23,
+      "points": 5005
     },
     {
       "id": 5,
@@ -78,7 +82,8 @@
       "countryCode": "GR",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 22
+      "tournPlayed": 22,
+      "points": 4850
     },
     {
       "id": 6,
@@ -94,7 +99,8 @@
       "countryCode": "DK",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 25
+      "tournPlayed": 25,
+      "points": 4825
     },
     {
       "id": 7,
@@ -110,7 +116,8 @@
       "countryCode": "RU",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 25
+      "tournPlayed": 25,
+      "points": 4525
     },
     {
       "id": 8,
@@ -126,7 +133,8 @@
       "countryCode": "IT",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 23
+      "tournPlayed": 23,
+      "points": 3975
     },
     {
       "id": 9,
@@ -142,7 +150,8 @@
       "countryCode": "US",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 25
+      "tournPlayed": 25,
+      "points": 3310
     },
     {
       "id": 10,
@@ -158,7 +167,8 @@
       "countryCode": "US",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 23
+      "tournPlayed": 23,
+      "points": 3130
     },
     {
       "id": 11,
@@ -174,7 +184,8 @@
       "countryCode": "RU",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 21
+      "tournPlayed": 21,
+      "points": 2770
     },
     {
       "id": 12,
@@ -190,7 +201,8 @@
       "countryCode": "CA",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 22
+      "tournPlayed": 22,
+      "points": 2610
     },
     {
       "id": 13,
@@ -206,7 +218,8 @@
       "countryCode": "ZA",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 23
+      "tournPlayed": 23,
+      "points": 2320
     },
     {
       "id": 14,
@@ -222,7 +235,8 @@
       "countryCode": "HR",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 25
+      "tournPlayed": 25,
+      "points": 2315
     },
     {
       "id": 15,
@@ -238,7 +252,8 @@
       "countryCode": "US",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 21
+      "tournPlayed": 21,
+      "points": 2290
     },
     {
       "id": 16,
@@ -254,7 +269,8 @@
       "countryCode": "IT",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 27
+      "tournPlayed": 27,
+      "points": 2195
     },
     {
       "id": 17,
@@ -270,7 +286,8 @@
       "countryCode": "AU",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 24
+      "tournPlayed": 24,
+      "points": 2150
     },
     {
       "id": 18,
@@ -286,7 +303,8 @@
       "countryCode": "PL",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 24
+      "tournPlayed": 24,
+      "points": 1720
     },
     {
       "id": 19,
@@ -302,7 +320,8 @@
       "countryCode": "AR",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 22
+      "tournPlayed": 22,
+      "points": 1655
     },
     {
       "id": 20,
@@ -318,7 +337,8 @@
       "countryCode": "ES",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 26
+      "tournPlayed": 26,
+      "points": 1650
     },
     {
       "id": 21,
@@ -334,7 +354,8 @@
       "countryCode": "DE",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 23
+      "tournPlayed": 23,
+      "points": 1550
     },
     {
       "id": 22,
@@ -350,87 +371,144 @@
       "countryCode": "DE",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 18
+      "tournPlayed": 18,
+      "points": 1530
     },
     {
       "id": 23,
       "rank": 23,
-      "name": "Roberto Bautista Agut",
-      "age": 33,
-      "birthplace": "Castellón, Spain",
-      "weight": "82 kg",
-      "height": "183 cm",
-      "turned_pro": 2005,
+      "name": "Diego Schwartzman",
+      "age": 29,
+      "birthplace": "Buenos Aires, Argentina",
+      "weight": "63 kg",
+      "height": "170 cm",
+      "turned_pro": 2010,
       "plays": "Right-handed, two-handed backhand",
-      "coach": "Pepe Vendrell",
-      "countryCode": "ES",
+      "coach": "Juan Ignacio Chela",
+      "countryCode": "AR",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 23
+      "tournPlayed": 22,
+      "points": 1470
+    },
+    {
+      "id": 24,
+      "rank": 24,
+      "name": "Ugo Humbert",
+      "age": 23,
+      "birthplace": "Metz, France",
+      "weight": "78 kg",
+      "height": "188 cm",
+      "turned_pro": 2016,
+      "plays": "Left-handed, two-handed backhand",
+      "coach": "Cyril Brechbuhl",
+      "countryCode": "FR",
+      "+/-points": 0,
+      "+/-rank": 0,
+      "tournPlayed": 28,
+      "points": 1459
     },
     {
       "id": 25,
       "rank": 25,
-      "name": "Sebastian Korda",
-      "age": 21,
-      "birthplace": "Bradenton, USA",
-      "weight": "83 kg",
-      "height": "193 cm",
-      "turned_pro": 2018,
+      "name": "Casper Ruud",
+      "age": 22,
+      "birthplace": "Oslo, Norway",
+      "weight": "77 kg",
+      "height": "183 cm",
+      "turned_pro": 2016,
       "plays": "Right-handed, two-handed backhand",
-      "coach": "Sebastien Grosjean",
-      "countryCode": "US",
+      "coach": "Ruud Veli Rud",
+      "countryCode": "NO",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 25
+      "tournPlayed": 23,
+      "points": 5005
     },
     {
       "id": 26,
       "rank": 26,
-      "name": "Alexander Bublik",
-      "age": 24,
-      "birthplace": "Golubovka, Kazakhstan",
-      "weight": "90 kg",
-      "height": "198 cm",
-      "turned_pro": 2016,
+      "name": "Gael Monfils",
+      "age": 35,
+      "birthplace": "Paris, France",
+      "weight": "80 kg",
+      "height": "193 cm",
+      "turned_pro": 2004,
       "plays": "Right-handed, two-handed backhand",
-      "coach": "Stanislav Bublik",
-      "countryCode": "KZ",
+      "coach": "Mikael Tillstrom",
+      "countryCode": "FR",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 26
+      "tournPlayed": 18,
+      "points": 2000
+    },
+    {
+      "id": 27,
+      "rank": 27,
+      "name": "Christian Garin",
+      "age": 25,
+      "birthplace": "Santiago, Chile",
+      "weight": "73 kg",
+      "height": "185 cm",
+      "turned_pro": 2011,
+      "plays": "Right-handed, two-handed backhand",
+      "coach": "Andres Schneiter",
+      "countryCode": "CL",
+      "+/-points": 0,
+      "+/-rank": 0,
+      "tournPlayed": 25,
+      "points": 1953
     },
     {
       "id": 28,
       "rank": 28,
-      "name": "Nicolas Jarry",
+      "name": "Nikoloz Basilashvili",
+      "age": 29,
+      "birthplace": "Tbilisi, Georgia",
+      "weight": "83 kg",
+      "height": "185 cm",
+      "turned_pro": 2008,
+      "plays": "Right-handed, two-handed backhand",
+      "coach": "Jan de Witt",
+      "countryCode": "GE",
+      "+/-points": 0,
+      "+/-rank": 0,
+      "tournPlayed": 23,
+      "points": 1863
+    },
+    {
+      "id": 29,
+      "rank": 29,
+      "name": "Cristian Garin",
       "age": 25,
       "birthplace": "Santiago, Chile",
-      "weight": "90 kg",
-      "height": "198 cm",
-      "turned_pro": 2014,
+      "weight": "75 kg",
+      "height": "183 cm",
+      "turned_pro": 2011,
       "plays": "Right-handed, two-handed backhand",
-      "coach": "Hernan Gumy",
+      "coach": "Andres Schneiter",
       "countryCode": "CL",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 28
+      "tournPlayed": 27,
+      "points": 1860
     },
     {
       "id": 30,
       "rank": 30,
-      "name": "Daniel Evans",
+      "name": "David Goffin",
       "age": 31,
-      "birthplace": "Birmingham, UK",
-      "weight": "72 kg",
-      "height": "175 cm",
-      "turned_pro": 2006,
-      "plays": "Right-handed, one-handed backhand",
-      "coach": "Mark Hilton",
-      "countryCode": "GB",
+      "birthplace": "Liege, Belgium",
+      "weight": "68 kg",
+      "height": "180 cm",
+      "turned_pro": 2009,
+      "plays": "Right-handed, two-handed backhand",
+      "coach": "Germain Gigounon",
+      "countryCode": "BE",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 30
+      "tournPlayed": 22,
+      "points": 1825
     },
     {
       "id": 31,
@@ -449,70 +527,6 @@
       "tournPlayed": 31
     },
     {
-      "id": 27,
-      "rank": 27,
-      "name": "Yoshihito Nishioka",
-      "age": 25,
-      "birthplace": "Mie, Japan",
-      "weight": "65 kg",
-      "height": "170 cm",
-      "turned_pro": 2012,
-      "plays": "Left-handed, two-handed backhand",
-      "coach": "Takao Kuwahara",
-      "countryCode": "JP",
-      "+/-points": 0,
-      "+/-rank": 0,
-      "tournPlayed": 27
-    },
-    {
-      "id": 28,
-      "rank": 28,
-      "name": "Nicolas Jarry",
-      "age": 25,
-      "birthplace": "Santiago, Chile",
-      "weight": "90 kg",
-      "height": "198 cm",
-      "turned_pro": 2014,
-      "plays": "Right-handed, two-handed backhand",
-      "coach": "Hernan Gumy",
-      "countryCode": "CL",
-      "+/-points": 0,
-      "+/-rank": 0,
-      "tournPlayed": 28
-    },
-    {
-      "id": 29,
-      "rank": 29,
-      "name": "Denis Shapovalov",
-      "age": 22,
-      "birthplace": "Tel Aviv, Israel",
-      "weight": "78 kg",
-      "height": "185 cm",
-      "turned_pro": 2016,
-      "plays": "Left-handed, one-handed backhand",
-      "coach": "Mikhail Youzhny",
-      "countryCode": "CA",
-      "+/-points": 0,
-      "+/-rank": 0,
-      "tournPlayed": 20
-    },
-    {
-      "id": 30,
-      "rank": 30,
-      "name": "Daniel Evans",
-      "age": 31,
-      "birthplace": "Birmingham, UK",
-      "weight": "72 kg",
-      "height": "175 cm",
-      "turned_pro": 2006,
-      "plays": "Right-handed, one-handed backhand",
-      "coach": "Mark Hilton",
-      "countryCode": "GB",
-      "+/-points": 0,
-      "+/-rank": 0,
-      "tournPlayed": 27
-    },
-    {
       "id": 32,
       "rank": 32,
       "name": "Tomas Martin Etcheverry",
@@ -526,7 +540,8 @@
       "countryCode": "AR",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 30
+      "tournPlayed": 30,
+      "points": 1304
     },
     {
       "id": 33,
@@ -542,7 +557,8 @@
       "countryCode": "AU",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 25
+      "tournPlayed": 25,
+      "points": 1262
     },
     {
       "id": 34,
@@ -558,7 +574,8 @@
       "countryCode": "ES",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 26
+      "tournPlayed": 26,
+      "points": 1243
     },
     {
       "id": 35,
@@ -574,7 +591,8 @@
       "countryCode": "FR",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 14
+      "tournPlayed": 14,
+      "points": 1231
     },
     {
       "id": 36,
@@ -590,7 +608,8 @@
       "countryCode": "US",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 31
+      "tournPlayed": 31,
+      "points": 1185
     },
     {
       "id": 37,
@@ -606,7 +625,8 @@
       "countryCode": "CZ",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 28
+      "tournPlayed": 28,
+      "points": 1184
     },
     {
       "id": 38,
@@ -622,7 +642,8 @@
       "countryCode": "IT",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 27
+      "tournPlayed": 27,
+      "points": 1175
     },
     {
       "id": 39,
@@ -638,7 +659,8 @@
       "countryCode": "FR",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 30
+      "tournPlayed": 30,
+      "points": 1146
     },
     {
       "id": 40,
@@ -654,7 +676,8 @@
       "countryCode": "GB",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 25
+      "tournPlayed": 25,
+      "points": 1085
     },
     {
       "id": 41,
@@ -670,7 +693,8 @@
       "countryCode": "RS",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 22
+      "tournPlayed": 22,
+      "points": 1030
     },
     {
       "id": 42,
@@ -686,7 +710,8 @@
       "countryCode": "IT",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 29
+      "tournPlayed": 29,
+      "points": 1025
     },
     {
       "id": 43,
@@ -702,7 +727,8 @@
       "countryCode": "US",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 19
+      "tournPlayed": 19,
+      "points": 1023
     },
     {
       "id": 44,
@@ -718,7 +744,8 @@
       "countryCode": "NL",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 28
+      "tournPlayed": 28,
+      "points": 1010
     },
     {
       "id": 45,
@@ -734,7 +761,8 @@
       "countryCode": "DE",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 27
+      "tournPlayed": 27,
+      "points": 1000
     },
     {
       "id": 46,
@@ -750,7 +778,8 @@
       "countryCode": "AR",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 26
+      "tournPlayed": 26,
+      "points": 961
     },
     {
       "id": 47,
@@ -766,7 +795,8 @@
       "countryCode": "FI",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 26
+      "tournPlayed": 26,
+      "points": 953
     },
     {
       "id": 48,
@@ -782,7 +812,8 @@
       "countryCode": "US",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 30
+      "tournPlayed": 30,
+      "points": 926
     },
     {
       "id": 49,
@@ -798,7 +829,8 @@
       "countryCode": "FR",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 32
+      "tournPlayed": 32,
+      "points": 920
     },
     {
       "id": 50,
@@ -814,7 +846,8 @@
       "countryCode": "RU",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 30
+      "tournPlayed": 30,
+      "points": 914
     },
     {
       "id": 51,
@@ -830,7 +863,8 @@
       "countryCode": "FR",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 31
+      "tournPlayed": 31,
+      "points": 901
     },
     {
       "id": 52,
@@ -846,7 +880,8 @@
       "countryCode": "CN",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 26
+      "tournPlayed": 26,
+      "points": 888
     },
     {
       "id": 53,
@@ -862,7 +897,8 @@
       "countryCode": "ES",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 28
+      "tournPlayed": 28,
+      "points": 871
     },
     {
       "id": 54,
@@ -878,7 +914,8 @@
       "countryCode": "US",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 27
+      "tournPlayed": 27,
+      "points": 867
     },
     {
       "id": 55,
@@ -894,7 +931,8 @@
       "countryCode": "US",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 25
+      "tournPlayed": 25,
+      "points": 865
     },
     {
       "id": 56,
@@ -910,7 +948,8 @@
       "countryCode": "RS",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 24
+      "tournPlayed": 24,
+      "points": 863
     },
     {
       "id": 57,
@@ -926,7 +965,8 @@
       "countryCode": "ES",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 28
+      "tournPlayed": 28,
+      "points": 855
     },
     {
       "id": 58,
@@ -942,7 +982,8 @@
       "countryCode": "FR",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 30
+      "tournPlayed": 30,
+      "points": 855
     },
     {
       "id": 59,
@@ -958,7 +999,8 @@
       "countryCode": "SE",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 29
+      "tournPlayed": 29,
+      "points": 845
     },
     {
       "id": 60,
@@ -974,7 +1016,8 @@
       "countryCode": "RS",
       "+/-points": 0,
       "+/-rank": 0,
-      "tournPlayed": 23
+      "tournPlayed": 23,
+      "points": 845
     },
     {
       "id": 61,
@@ -988,9 +1031,10 @@
       "plays": "Right-handed, two-handed backhand",
       "coach": "Unknown",
       "countryCode": "FR",
-      "+/-points": 0,
+      "+/-points": 839,
       "+/-rank": 0,
-      "tournPlayed": 27
+      "tournPlayed": 27,
+      "points": 839
     },
     {
       "id": 62,
@@ -1004,9 +1048,10 @@
       "plays": "Right-handed, two-handed backhand",
       "coach": "Unknown",
       "countryCode": "CN",
-      "+/-points": 0,
+      "+/-points": 830,
       "+/-rank": 0,
-      "tournPlayed": 29
+      "tournPlayed": 29,
+      "points": 830
     },
     {
       "id": 63,
@@ -1020,9 +1065,10 @@
       "plays": "Right-handed, two-handed backhand",
       "coach": "Unknown",
       "countryCode": "PE",
-      "+/-points": 0,
+      "+/-points": 815,
       "+/-rank": 0,
-      "tournPlayed": 28
+      "tournPlayed": 28,
+      "points": 815
     },
     {
       "id": 64,
@@ -1036,9 +1082,10 @@
       "plays": "Right-handed, two-handed backhand",
       "coach": "Unknown",
       "countryCode": "AU",
-      "+/-points": 0,
+      "+/-points": 813,
       "+/-rank": 0,
-      "tournPlayed": 29
+      "tournPlayed": 29,
+      "points": 813
     },
     {
       "id": 65,
@@ -1052,9 +1099,10 @@
       "plays": "Right-handed, two-handed backhand",
       "coach": "Unknown",
       "countryCode": "US",
-      "+/-points": 0,
+      "+/-points": 811,
       "+/-rank": 0,
-      "tournPlayed": 27
+      "tournPlayed": 27,
+      "points": 811
     },
     {
       "id": 66,
@@ -1068,9 +1116,10 @@
       "plays": "Right-handed, two-handed backhand",
       "coach": "Unknown",
       "countryCode": "DE",
-      "+/-points": 0,
+      "+/-points": 808,
       "+/-rank": 0,
-      "tournPlayed": 29
+      "tournPlayed": 29,
+      "points": 808
     },
     {
       "id": 67,
@@ -1084,9 +1133,10 @@
       "plays": "Right-handed, two-handed backhand",
       "coach": "Attila Savolt",
       "countryCode": "HU",
-      "+/-points": 0,
+      "+/-points": 806,
       "+/-rank": 0,
-      "tournPlayed": 23
+      "tournPlayed": 23,
+      "points": 806
     },
     {
       "id": 68,
@@ -1100,9 +1150,10 @@
       "plays": "Right-handed, two-handed backhand",
       "coach": "Sebastian Prieto",
       "countryCode": "AR",
-      "+/-points": 0,
+      "+/-points": 800,
       "+/-rank": 0,
-      "tournPlayed": 29
+      "tournPlayed": 29,
+      "points": 800
     },
     {
       "id": 69,
@@ -1116,9 +1167,10 @@
       "plays": "Right-handed, two-handed backhand",
       "coach": "Unknown",
       "countryCode": "PT",
-      "+/-points": 0,
+      "+/-points": 798,
       "+/-rank": 0,
-      "tournPlayed": 23
+      "tournPlayed": 23,
+      "points": 798
     },
     {
       "id": 70,
@@ -1132,9 +1184,10 @@
       "plays": "Right-handed, two-handed backhand",
       "coach": "Des Tyson",
       "countryCode": "AU",
-      "+/-points": 0,
+      "+/-points": 796,
       "+/-rank": 0,
-      "tournPlayed": 24
+      "tournPlayed": 24,
+      "points": 796
     },
     {
       "id": 71,
@@ -1148,9 +1201,10 @@
       "plays": "Left-handed, two-handed backhand",
       "coach": "Franck Binisti",
       "countryCode": "FR",
-      "+/-points": 0,
+      "+/-points": 786,
       "+/-rank": 0,
-      "tournPlayed": 27
+      "tournPlayed": 27,
+      "points": 786
     },
     {
       "id": 72,
@@ -1164,9 +1218,10 @@
       "plays": "Right-handed, two-handed backhand",
       "coach": "Maximilian Ofner",
       "countryCode": "AT",
-      "+/-points": 0,
+      "+/-points": 772,
       "+/-rank": 0,
-      "tournPlayed": 29
+      "tournPlayed": 29,
+      "points": 772
     },
     {
       "id": 73,
@@ -1180,9 +1235,10 @@
       "plays": "Right-handed, two-handed backhand",
       "coach": "Rory O'Neill",
       "countryCode": "AU",
-      "+/-points": 0,
+      "+/-points": 768,
       "+/-rank": 0,
-      "tournPlayed": 23
+      "tournPlayed": 23,
+      "points": 768
     },
     {
       "id": 74,
@@ -1196,9 +1252,10 @@
       "plays": "Right-handed, two-handed backhand",
       "coach": "Unknown",
       "countryCode": "FR",
-      "+/-points": 0,
+      "+/-points": 764,
       "+/-rank": 0,
-      "tournPlayed": 29
+      "tournPlayed": 29,
+      "points": 764
     },
     {
       "id": 75,
@@ -1212,9 +1269,10 @@
       "plays": "Unknown",
       "coach": "Unknown",
       "countryCode": "BE",
-      "+/-points": 0,
+      "+/-points": 762,
       "+/-rank": 0,
-      "tournPlayed": 27
+      "tournPlayed": 27,
+      "points": 762
     },
     {
       "id": 76,
@@ -1228,9 +1286,10 @@
       "plays": "Left-handed, two-handed backhand",
       "coach": "Jose Maria Diaz",
       "countryCode": "ES",
-      "+/-points": 0,
+      "+/-points": 748,
       "+/-rank": 0,
-      "tournPlayed": 29
+      "tournPlayed": 29,
+      "points": 748
     },
     {
       "id": 77,
@@ -1244,9 +1303,10 @@
       "plays": "Right-handed, two-handed backhand",
       "coach": "Heath Downie",
       "countryCode": "AU",
-      "+/-points": 0,
+      "+/-points": 748,
       "+/-rank": 0,
-      "tournPlayed": 23
+      "tournPlayed": 23,
+      "points": 748
     },
     {
       "id": 78,
@@ -1260,9 +1320,10 @@
       "plays": "Left-handed, two-handed backhand",
       "coach": "Mark Hilton",
       "countryCode": "GB",
-      "+/-points": 0,
+      "+/-points": 743,
       "+/-rank": 0,
-      "tournPlayed": 29
+      "tournPlayed": 29,
+      "points": 743
     },
     {
       "id": 79,
@@ -1276,9 +1337,10 @@
       "plays": "Right-handed, two-handed backhand",
       "coach": "Sam Aliassime",
       "countryCode": "FR",
-      "+/-points": 0,
+      "+/-points": 742,
       "+/-rank": 0,
-      "tournPlayed": 23
+      "tournPlayed": 23,
+      "points": 742
     },
     {
       "id": 80,
@@ -1292,9 +1354,10 @@
       "plays": "Right-handed, two-handed backhand",
       "coach": "Unknown",
       "countryCode": "IT",
-      "+/-points": 0,
+      "+/-points": 741,
       "+/-rank": 0,
-      "tournPlayed": 24
+      "tournPlayed": 24,
+      "points": 741
     },
     {
       "id": 81,
@@ -1308,9 +1371,10 @@
       "plays": "Right-handed, two-handed backhand",
       "coach": "Unknown",
       "countryCode": "CH",
-      "+/-points": 0,
+      "+/-points": 731,
       "+/-rank": 0,
-      "tournPlayed": 23
+      "tournPlayed": 23,
+      "points": 731
     },
     {
       "id": 82,
@@ -1324,9 +1388,10 @@
       "plays": "Right-handed, two-handed backhand",
       "coach": "Unknown",
       "countryCode": "FR",
-      "+/-points": 0,
+      "+/-points": 721,
       "+/-rank": 0,
-      "tournPlayed": 25
+      "tournPlayed": 25,
+      "points": 721
     },
     {
       "id": 83,
@@ -1340,9 +1405,10 @@
       "plays": "Right-handed, two-handed backhand",
       "coach": "Unknown",
       "countryCode": "SK",
-      "+/-points": 0,
+      "+/-points": 716,
       "+/-rank": 0,
-      "tournPlayed": 31
+      "tournPlayed": 31,
+      "points": 716
     },
     {
       "id": 84,
@@ -1356,9 +1422,10 @@
       "plays": "Right-handed, two-handed backhand",
       "coach": "Unknown",
       "countryCode": "FR",
-      "+/-points": 0,
+      "+/-points": 704,
       "+/-rank": 0,
-      "tournPlayed": 32
+      "tournPlayed": 32,
+      "points": 704
     },
     {
       "id": 85,
@@ -1372,9 +1439,10 @@
       "plays": "Right-handed, two-handed backhand",
       "coach": "Felipe Beron",
       "countryCode": "CO",
-      "+/-points": 0,
+      "+/-points": 697,
       "+/-rank": 0,
-      "tournPlayed": 25
+      "tournPlayed": 25,
+      "points": 697
     },
     {
       "id": 86,
@@ -1388,9 +1456,10 @@
       "plays": "Left-handed, two-handed backhand",
       "coach": "Unknown",
       "countryCode": "DE",
-      "+/-points": 0,
+      "+/-points": 691,
       "+/-rank": 0,
-      "tournPlayed": 28
+      "tournPlayed": 28,
+      "points": 691
     },
     {
       "id": 87,
@@ -1404,9 +1473,10 @@
       "plays": "Right-handed, two-handed backhand",
       "coach": "Unknown",
       "countryCode": "AU",
-      "+/-points": 0,
+      "+/-points": 691,
       "+/-rank": 0,
-      "tournPlayed": 19
+      "tournPlayed": 19,
+      "points": 691
     },
     {
       "id": 88,
@@ -1420,9 +1490,10 @@
       "plays": "Right-handed, one-handed backhand",
       "coach": "Magnus Norman",
       "countryCode": "CH",
-      "+/-points": 0,
+      "+/-points": 667,
       "+/-rank": 0,
-      "tournPlayed": 20
+      "tournPlayed": 20,
+      "points": 667
     },
     {
       "id": 89,
@@ -1436,9 +1507,10 @@
       "plays": "Right-handed, two-handed backhand",
       "coach": "Davide Scala",
       "countryCode": "IT",
-      "+/-points": 0,
+      "+/-points": 667,
       "+/-rank": 0,
-      "tournPlayed": 24
+      "tournPlayed": 24,
+      "points": 667
     },
     {
       "id": 90,
@@ -1452,9 +1524,10 @@
       "plays": "Right-handed, two-handed backhand",
       "coach": "Todd Langman",
       "countryCode": "AU",
-      "+/-points": 0,
+      "+/-points": 662,
       "+/-rank": 0,
-      "tournPlayed": 28
+      "tournPlayed": 28,
+      "points": 662
     },
     {
       "id": 91,
@@ -1468,9 +1541,10 @@
       "plays": "Right-handed, one-handed backhand",
       "coach": "Nicolas Massu",
       "countryCode": "AT",
-      "+/-points": 0,
+      "+/-points": 655,
       "+/-rank": 0,
-      "tournPlayed": 26
+      "tournPlayed": 26,
+      "points": 655
     },
     {
       "id": 92,
@@ -1484,9 +1558,10 @@
       "plays": "Right-handed, two-handed backhand",
       "coach": "Unknown",
       "countryCode": "RU",
-      "+/-points": 0,
+      "+/-points": 652,
       "+/-rank": 0,
-      "tournPlayed": 25
+      "tournPlayed": 25,
+      "points": 652
     },
     {
       "id": 93,
@@ -1495,126 +1570,134 @@
       "age": 22,
       "birthplace": "Sydney, Australia",
       "weight": "80 kg",
-      "height": "196 cm",
+      "height": "193 cm",
       "turned_pro": 2017,
       "plays": "Right-handed, two-handed backhand",
-      "coach": "Pieter Heemeryck",
+      "coach": "Alexei Popyrin Sr.",
       "countryCode": "AU",
-      "+/-points": 0,
+      "+/-points": 648,
       "+/-rank": 0,
-      "tournPlayed": 26
+      "tournPlayed": 29,
+      "points": 648
     },
     {
       "id": 94,
       "rank": 94,
-      "name": "Benjamin Bonzi",
-      "age": 25,
-      "birthplace": "Nice, France",
-      "weight": "83 kg",
-      "height": "188 cm",
-      "turned_pro": 2013,
+      "name": "Emil Ruusuvuori",
+      "age": 22,
+      "birthplace": "Helsinki, Finland",
+      "weight": "78 kg",
+      "height": "183 cm",
+      "turned_pro": 2017,
       "plays": "Right-handed, two-handed backhand",
-      "coach": "Unknown",
-      "countryCode": "FR",
-      "+/-points": 0,
+      "coach": "Petri Mutru",
+      "countryCode": "FI",
+      "+/-points": 645,
       "+/-rank": 0,
-      "tournPlayed": 31
+      "tournPlayed": 28,
+      "points": 645
     },
     {
       "id": 95,
       "rank": 95,
-      "name": "Thiago Monteiro",
-      "age": 27,
-      "birthplace": "Fortaleza, Brazil",
-      "weight": "83 kg",
-      "height": "188 cm",
-      "turned_pro": 2011,
-      "plays": "Left-handed, two-handed backhand",
-      "coach": "Joao Zwetsch",
-      "countryCode": "BR",
-      "+/-points": 0,
+      "name": "Sergiy Stakhovsky",
+      "age": 35,
+      "birthplace": "Kiev, Ukraine",
+      "weight": "77 kg",
+      "height": "196 cm",
+      "turned_pro": 2003,
+      "plays": "Right-handed, two-handed backhand",
+      "coach": "Mykhailo Filima",
+      "countryCode": "UA",
+      "+/-points": 640,
       "+/-rank": 0,
-      "tournPlayed": 29
+      "tournPlayed": 24,
+      "points": 640
     },
     {
       "id": 96,
       "rank": 96,
-      "name": "Fabian Marozsan",
-      "age": 19,
-      "birthplace": "Hungary",
-      "weight": "74 kg",
-      "height": "188 cm",
-      "turned_pro": 2021,
-      "plays": "Unknown",
-      "coach": "Unknown",
-      "countryCode": "HU",
-      "+/-points": 0,
+      "name": "Brandon Nakashima",
+      "age": 20,
+      "birthplace": "San Diego, USA",
+      "weight": "75 kg",
+      "height": "185 cm",
+      "turned_pro": 2019,
+      "plays": "Right-handed, two-handed backhand",
+      "coach": "Pat Harrison",
+      "countryCode": "US",
+      "+/-points": 635,
       "+/-rank": 0,
-      "tournPlayed": 30
+      "tournPlayed": 28,
+      "points": 635
     },
     {
       "id": 97,
       "rank": 97,
-      "name": "Alexander Shevchenko",
-      "age": 21,
-      "birthplace": "Russia",
-      "weight": "75 kg",
-      "height": "188 cm",
-      "turned_pro": 2021,
-      "plays": "Unknown",
-      "coach": "Unknown",
-      "countryCode": "RU",
-      "+/-points": 0,
+      "name": "Stefano Travaglia",
+      "age": 30,
+      "birthplace": "Ascoli Piceno, Italy",
+      "weight": "83 kg",
+      "height": "191 cm",
+      "turned_pro": 2012,
+      "plays": "Right-handed, two-handed backhand",
+      "coach": "Massimo Sartori",
+      "countryCode": "IT",
+      "+/-points": 628,
       "+/-rank": 0,
-      "tournPlayed": 25
+      "tournPlayed": 24,
+      "points": 628
     },
     {
       "id": 98,
       "rank": 98,
-      "name": "Diego Schwartzman",
-      "age": 28,
-      "birthplace": "Buenos Aires, Argentina",
-      "weight": "63 kg",
-      "height": "170 cm",
-      "turned_pro": 2007,
-      "plays": "Right-handed, two-handed backhand",
-      "coach": "Juan Ignacio Chela",
-      "countryCode": "AR",
-      "+/-points": 0,
+      "name": "Gregoire Barrere",
+      "age": 27,
+      "birthplace": "Boulogne-Billancourt, France",
+      "weight": "75 kg",
+      "height": "183 cm",
+      "turned_pro": 2013,
+      "plays": "Left-handed, two-handed backhand",
+      "coach": "Olivier Ramos",
+      "countryCode": "FR",
+      "+/-points": 625,
       "+/-rank": 0,
-      "tournPlayed": 27
+      "tournPlayed": 30,
+      "points": 625
     },
     {
       "id": 99,
       "rank": 99,
-      "name": "Soonwoo Kwon",
-      "age": 23,
-      "birthplace": "Seoul, South Korea",
-      "weight": "74 kg",
-      "height": "185 cm",
-      "turned_pro": 2017,
+      "name": "Yannick Hanfmann",
+      "age": 30,
+      "birthplace": "Karlsruhe, Germany",
+      "weight": "86 kg",
+      "height": "198 cm",
+      "turned_pro": 2011,
       "plays": "Right-handed, two-handed backhand",
-      "coach": "Unknown",
-      "countryCode": "KR",
-      "+/-points": 0,
+      "coach": "Marcos Aurelio Gorriz",
+      "countryCode": "DE",
+      "+/-points": 624,
       "+/-rank": 0,
-      "tournPlayed": 27
+      "tournPlayed": 27,
+      "points": 624
     },
     {
       "id": 100,
       "rank": 100,
-      "name": "Marin Cilic",
-      "age": 33,
-      "birthplace": "Medjugorje, Bosnia and Herzegovina",
-      "weight": "89 kg",
-      "height": "198 cm",
-      "turned_pro": 2005,
+      "name": "Tallon Griekspoor",
+      "age": 25,
+      "birthplace": "Amsterdam, Netherlands",
+      "weight": "81 kg",
+      "height": "196 cm",
+      "turned_pro": 2013,
       "plays": "Right-handed, two-handed backhand",
-      "coach": "Wayne Ferreira",
-      "countryCode": "BA",
-      "+/-points": 0,
+      "coach": "Samuel Groth",
+      "countryCode": "NL",
+      "+/-points": 622,
       "+/-rank": 0,
-      "tournPlayed": 25
+      "tournPlayed": 25,
+      "points": 622
     }
   ]
 }
