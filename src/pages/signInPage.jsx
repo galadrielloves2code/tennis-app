@@ -1,9 +1,10 @@
 import React from "react";
-import { BrowserRouter as Router, Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 import { SignInButton } from "../components/buttons/signInButton";
+
 export function SignInPage() {
   return (
-    <Router>
+    <div className="container">
       <div className="container-sm-center">
         <img src="../components/imgages/profile.svg" alt="Profile Icon" />
         <form class="needs-validation" novalidate>
@@ -56,15 +57,15 @@ export function SignInPage() {
           Create an account
         </Link>
       </div>
-      <br/>
+      <br />
       <Link
-          to="#"
-          style={{ textDecoration: "none", color: "black" }}
-          onMouseEnter={(e) => (e.target.style.color = "green")}
-          onMouseLeave={(e) => (e.target.style.color = "black")}
-        >
-          Forgot your password?
-        </Link>
-    </Router>
+        to="#"
+        style={{ textDecoration: "none", color: "black" }}
+        onMouseEnter={(e) => (e.target.style.color = "green")}
+        onMouseLeave={(e) => (e.target.style.color = "black")}
+      >
+        Forgot your password?
+      </Link>
+    </div>
   );
 }

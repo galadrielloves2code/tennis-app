@@ -1,10 +1,10 @@
 import React, { useState } from "react";
-import playerInfo from "../API/playerInfo.json";
+import WTAInfo from "../API/WTAInfo.json";
 
-export function PlayerCard({ rank }) {
-  const playerRanking = playerInfo.tennis_players[rank];
+export function PlayerCardWomen({ rank }) {
+  const playerRanking = WTAInfo.tennis_players[rank];
   const playerName = playerRanking.name;
-  const playerImagePath = `../assets/playersIcons/ATP/${playerRanking.rank}.png`;
+  const playerImagePath = `../assets/playersIcons/WTA/${playerRanking.rank}.png`;
   const placeholderImagePath = "../assets/playersIcons/999.png";
 
   const [imagePath, setImagePath] = useState(playerImagePath);
