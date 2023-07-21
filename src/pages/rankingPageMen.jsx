@@ -1,7 +1,7 @@
 import React from "react";
 import playerInfo from "../API/playerInfo.json";
 
-export function RankingList() {
+export function RankingListMen() {
   return (
     <table
       className=" container table table-borderless table-hover"

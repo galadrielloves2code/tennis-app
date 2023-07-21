@@ -32,12 +32,12 @@ export function Header() {
                 </Link>
                 <ul className="dropdown-menu">
                   <li>
-                    <Link className="dropdown-item" to="/ranking/atp">
+                    <Link className="dropdown-item" to="/ranking/ATP">
                       ATP
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" to="/ranking/wta">
+                    <Link className="dropdown-item" to="/ranking/WTA">
                       WTA
                     </Link>
                   </li>
