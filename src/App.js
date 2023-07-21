@@ -7,6 +7,8 @@ import { TournamentsAccordion } from "../src/pages/tournamentsPage";
 import { RankingListMen } from "./pages/rankingPageMen";
 import { PlayersPage } from "../src/pages/playersPage";
 import { RankingListWomen } from "./pages/rankingPageWomen";
+import { PlayersPageWomen } from "./pages/playersPageWomen";
+import { SignInPage } from "./pages/signInPage";
 
 export function App() {
   return (
@@ -18,7 +20,9 @@ export function App() {
         <Route path="/tournaments" element={<TournamentsAccordion />} />
         <Route path="/ranking/ATP" element={<RankingListMen />} />
         <Route path="/ranking/WTA" element={<RankingListWomen />} />
-        <Route path="/players" element={<PlayersPage />} />
+        <Route path="/players/ATP" element={<PlayersPage />} />
+        <Route path="/players/WTA" element={<PlayersPageWomen />} />
+        <Route path="/signIn" element={<SignInPage />} />
       </Routes>
     </Router>
   );

@@ -53,12 +53,30 @@ export function Header() {
                   Tournaments
                 </Link>
               </li>
-              <li className="nav-item">
-                <Link className="nav-link" to="/players">
+              <li className="nav-item dropdown">
+                <Link
+                  className="nav-link dropdown-toggle"
+                  to="/ranking"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
                   Players
                 </Link>
+                <ul className="dropdown-menu">
+                  <li>
+                    <Link className="dropdown-item" to="/players/ATP">
+                      ATP
+                    </Link>
+                  </li>
+                  <li>
+                    <Link className="dropdown-item" to="/players/WTA">
+                      WTA
+                    </Link>
+                  </li>
+                </ul>
               </li>
-              <SignInButton />
+              <SignInButton/>
             </ul>
             <form className="d-flex" role="search">
               <input
