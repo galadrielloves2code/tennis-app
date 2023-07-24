@@ -1,12 +1,21 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import { SignInButton } from "../components/buttons/signInButton";
+import { ProgressBar } from "../components/progressBar";
 
 export function SignInPage() {
   return (
-    <div className="container">
+    <div
+      className="container"
+      style={{
+        width: "500px",
+        border: "0.5px solid gray",
+        padding: "80px",
+        borderRadius: "50px",
+        boxShadow: "2px 2px 4px rgba(0, 0, 0, 0.2)",
+      }}
+    >
       <div className="container-sm-center">
-        <img src="../components/imgages/profile.svg" alt="Profile Icon" />
+        <h1>Sign in</h1>
         <form class="needs-validation" novalidate>
           <div class="col-md-6 mb-3" className="form-group">
             <label htmlFor="exampleInputEmail1"></label>
@@ -28,11 +37,9 @@ export function SignInPage() {
               placeholder="Password"
               required
             />
-            <small id="emailHelp" className="form-text text-muted">
-              Choose a password with at least 8 characters, including uppercase
-              letters, lowercase letters, numbers, and symbols
-            </small>
           </div>
+          <br />
+          <ProgressBar/>
           <br />
           <div className="form-check">
             <input
@@ -45,7 +52,13 @@ export function SignInPage() {
             </label>
           </div>
           <br />
-          <SignInButton />
+          <button
+            type="button"
+            className="btn"
+            style={{ width: "100%", backgroundColor: "#38E54D" }}
+          >
+            Sign In
+          </button>
         </form>
         <br />
         <Link
