@@ -1,18 +1,15 @@
 import React from "react";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faGoogle } from "@fortawesome/free-brands-svg-icons";
 
 export function GmailButton() {
   return (
     <div>
-      <button
-        type="button"
-        className="btn text-white btn-sm rounded-circle"
-        style={{ backgroundColor: "black" }}
-        href="#!"
-        role="button"
-      >
-        <FontAwesomeIcon icon={faGoogle} />
+      <button type="button" class="btn btn-light" style={{ width: "100%" }}>
+        <img
+          src="assets/logos/gmail.png"
+          alt="gmail logo"
+          style={{ height: "20px", paddingLeft: "10px", paddingRight: "10px" }}
+        />{" "}
+        Sign up with Google
       </button>
     </div>
   );
