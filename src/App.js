@@ -9,6 +9,7 @@ import { PlayersPage } from "../src/pages/playersPage";
 import { RankingListWomen } from "./pages/rankingPageWomen";
 import { PlayersPageWomen } from "./pages/playersPageWomen";
 import { SignInPage } from "./pages/signInPage";
+import { SignUp } from "./pages/singUpPage";
 
 export function App() {
   return (
@@ -23,6 +24,7 @@ export function App() {
         <Route path="/players/ATP" element={<PlayersPage />} />
         <Route path="/players/WTA" element={<PlayersPageWomen />} />
         <Route path="/signIn" element={<SignInPage />} />
+        <Route path="/signup" element={<SignUp />} />
       </Routes>
     </Router>
   );

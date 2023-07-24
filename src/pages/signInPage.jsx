@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import { ProgressBar } from "../components/progressBar";
 
 export function SignInPage() {
   return (
@@ -10,6 +9,8 @@ export function SignInPage() {
         width: "500px",
         border: "0.5px solid gray",
         padding: "80px",
+        paddingTop:"150px",
+        paddingBottom:"120px",
         borderRadius: "50px",
         boxShadow: "2px 2px 4px rgba(0, 0, 0, 0.2)",
       }}
@@ -39,8 +40,6 @@ export function SignInPage() {
             />
           </div>
           <br />
-          <ProgressBar/>
-          <br />
           <div className="form-check">
             <input
               type="checkbox"
@@ -62,16 +61,6 @@ export function SignInPage() {
         </form>
         <br />
         <Link
-          to="/"
-          style={{ textDecoration: "none", color: "black" }}
-          onMouseEnter={(e) => (e.target.style.color = "green")}
-          onMouseLeave={(e) => (e.target.style.color = "black")}
-        >
-          Create an account
-        </Link>
-      </div>
-      <br />
-      <Link
         to="#"
         style={{ textDecoration: "none", color: "black" }}
         onMouseEnter={(e) => (e.target.style.color = "green")}
@@ -79,6 +68,17 @@ export function SignInPage() {
       >
         Forgot your password?
       </Link>
+       
+      </div>
+      <br />
+      <Link
+          to="/signup"
+          style={{ textDecoration: "none", color: "black" }}
+          onMouseEnter={(e) => (e.target.style.color = "green")}
+          onMouseLeave={(e) => (e.target.style.color = "black")}
+        >
+          Create an account
+        </Link>
     </div>
   );
 }
