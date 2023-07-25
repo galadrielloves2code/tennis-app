@@ -22,3 +22,7 @@ body {
   line-height: 0.5;
 }
 
+.custom-tooltip {
+  background-color: #dddddd;
+  color: black;
+}

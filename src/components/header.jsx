@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { SignInButton } from "./buttons/signInButton";
 import { Logo } from "./logo";
 
-export function Header() {
+export function Header({ isUserSignedUp }) {
   return (
     <div className="container-fluid">
       <nav className="navbar navbar-expand-lg">
