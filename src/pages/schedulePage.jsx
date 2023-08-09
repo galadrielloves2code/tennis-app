@@ -1,4 +1,5 @@
 import React from "react";
+import { useState } from "react";
 import { Calendar, momentLocalizer } from "react-big-calendar";
 import moment from "moment";
 import "react-big-calendar/lib/css/react-big-calendar.css";
@@ -13,21 +14,53 @@ const eventColors = {
   "ATP 250": "#E5BEEC",
   "Grand Slam": "#78C1F3",
   "Laver Cup": "#FCAEAE",
-  "Wimbledon": "#CBFFA9"
+  Wimbledon: "#CBFFA9",
 };
+const filterOptions = [
+  { label: "All", value: "All" },
+  { label: "Grand Slam", value: "Grand Slam" },
+  { label: "ATP 1000", value: "ATP 1000" },
+  { label: "ATP 500", value: "ATP 500" },
+  { label: "ATP 250", value: "ATP 250" },
+  { label: "Laver Cup", value: "Laver Cup" }
+];
 
 const Schedule = () => {
+  const [selectedFilter, setSelectedFilter] = useState("All");
+
+  const handleFilterChange = (value) => {
+    setSelectedFilter(value);
+  };
+
   const events = eventsData.map((event) => ({
     ...event,
     start: new Date(event.start),
     end: new Date(event.end),
   }));
 
+  const filteredEvents =
+    selectedFilter === "All"
+      ? events
+      : events.filter((event) => event.type === selectedFilter);
+
   return (
-    <div className="container">
+    <div className="container" style={{display:"flex"}}>
+      <div className="filter-options">
+        {filterOptions.map((option) => (
+          <button
+            key={option.value}
+            onClick={() => handleFilterChange(option.value)}
+            className={selectedFilter === option.value ? "active" : ""}
+            style={{display:"flex", marginRight:"50px"}}
+            className="btn"
+          >
+            {option.label}
+          </button>
+        ))}
+      </div>
       <Calendar
         localizer={localizer}
-        events={events}
+        events={filteredEvents}
         startAccessor="start"
         endAccessor="end"
         style={{ height: 500 }}
