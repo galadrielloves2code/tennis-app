@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { Home } from "./pages/home";
 import { Header } from "./components/header";
-import { Schedule } from "../src/pages/schedulePage";
+import Schedule from "./pages/schedulePage";
 import { TournamentsAccordion } from "../src/pages/tournamentsPage";
 import { RankingListMen } from "./pages/rankingPageMen";
 import { PlayersPage } from "../src/pages/playersPage";
