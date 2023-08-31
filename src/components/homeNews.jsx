@@ -1,6 +1,6 @@
 import React from "react";
 
-export function HomeMiddle(){
+export function HomeNews(){
     return(
         <div className="container-fluid" style={{position:"relative", display:"flex",justifyContent:"space-between", alignItems:"center",paddingTop:"50px", background:"#FFF"}}>
             <h1 style={{position:"absolute", right:"325px",color:"#F5F5F5", fontSize:"200px", fontFamily:"Poppins"}}>LIVE</h1>
