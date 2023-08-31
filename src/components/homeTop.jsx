@@ -19,17 +19,11 @@ export function HomeTop() {
           textAlign: "center",
         }}
       >
-        <div
-          style={{
-            color: "#FFF",
-            fontFamily: "Bungee Shade",
-            fontSize: "10vw",
-            fontWeight: "bold",
-            letterSpacing: "1.5vw",
-          }}
-        >
-          <h1>TENNIS</h1>
-        </div>
+        <img
+          src="/assets/images/tennis.png"
+          style={{ width: "500px", height: "80px", marginBottom:"20px"}}
+        />
+
         <div
           style={{
             color: "#FFF",
