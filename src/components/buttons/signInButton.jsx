@@ -13,7 +13,11 @@ export function SignInButton() {
       <button
         type="button"
         className="btn btn-success rounded"
-        style={{ backgroundColor: "#007E00" }}
+        style={{
+          backgroundColor: "#007E00",
+          fontSize: "16px",
+          color: "#ECEAEB",
+        }}
         onClick={handleSignInClick}
       >
         Sign in

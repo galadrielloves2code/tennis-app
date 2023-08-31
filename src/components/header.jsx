@@ -7,18 +7,17 @@ export function Header({ isUserSignedUp }) {
   return (
     <div className="container-fluid">
       <nav className="navbar navbar-expand-lg">
+        <Logo />
         <div className="container-fluid">
-          <Logo />
-
           <div className="collapse navbar-collapse" id="navbarScroll">
             <ul
               className="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll"
-              style={{ "--bs-scroll-height": "100px" }}
+              style={{
+                "--bs-scroll-height": "100px",
+              }}
             >
               <li className="nav-item">
-                <Link className="nav-link active" to="/">
-                  Home
-                </Link>
+                <Link className="nav-link active" to="/"></Link>
               </li>
               <li className="nav-item dropdown">
                 <Link
@@ -27,29 +26,46 @@ export function Header({ isUserSignedUp }) {
                   role="button"
                   data-bs-toggle="dropdown"
                   aria-expanded="false"
+                  style={{ color: "#003500" }}
                 >
                   Ranking
                 </Link>
-                <ul className="dropdown-menu">
+                <ul className="dropdown-menu" style={{ fontSize: "16px" }}>
                   <li>
-                    <Link className="dropdown-item" to="/ranking/ATP">
+                    <Link
+                      className="dropdown-item"
+                      to="/ranking/ATP"
+                      style={{ color: "#003500" }}
+                    >
                       ATP
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" to="/ranking/WTA">
+                    <Link
+                      className="dropdown-item"
+                      to="/ranking/WTA"
+                      style={{ color: "#003500" }}
+                    >
                       WTA
                     </Link>
                   </li>
                 </ul>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/schedule">
+                <Link
+                  className="nav-link"
+                  to="/schedule"
+                  style={{ color: "#003500" }}
+                >
                   Schedule
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/tournaments">
+                <Link
+                  className="nav-link"
+                  to="/tournaments"
+                  style={{ color: "#003500" }}
+                >
                   Tournaments
                 </Link>
               </li>
@@ -60,24 +76,34 @@ export function Header({ isUserSignedUp }) {
                   role="button"
                   data-bs-toggle="dropdown"
                   aria-expanded="false"
+                  style={{ color: "#003500" }}
                 >
                   Players
                 </Link>
                 <ul className="dropdown-menu">
                   <li>
-                    <Link className="dropdown-item" to="/players/ATP">
+                    <Link
+                      className="dropdown-item"
+                      to="/players/ATP"
+                      style={{ color: "#003500" }}
+                    >
                       ATP
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" to="/players/WTA">
+                    <Link
+                      className="dropdown-item"
+                      to="/players/WTA"
+                      style={{ color: "#003500" }}
+                    >
                       WTA
                     </Link>
                   </li>
                 </ul>
               </li>
-              <SignInButton/>
+              <SignInButton />
             </ul>
+            {/**  ----- this part will be activated later-----
             <form className="d-flex" role="search">
               <input
                 className="form-control me-2"
@@ -89,6 +115,7 @@ export function Header({ isUserSignedUp }) {
                 Search
               </button>
             </form>
+            */}
           </div>
         </div>
       </nav>
