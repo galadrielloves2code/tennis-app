@@ -1,6 +1,8 @@
 # Tennis App
 
-Welcome to the Tennis App repository! This project is a web application that provides tennis enthusiasts with information about ATP and WTA tennis players, tournaments, and schedules.
+Welcome to the Tennis App repository! This project is a web application that provides tennis enthusiasts with information about ATP and WTA tennis players, tournaments, and schedules. This project is a collaboration between a developer and an UI designer Oguzhan Ekiz (linkedin.com/in/handekaradenz) who has come up with a creative and innovative UI concept.
+
+
 
 ## Table of Contents
 
@@ -55,6 +57,13 @@ Stay updated with the upcoming tennis matches and tournaments. The Schedule page
 ## Contributing
 
 Contributions are welcome! If you find any issues or have ideas for enhancements, please feel free to open an issue or submit a pull request.
+
+## Contact
+
+For project-related inquiries, suggestions, or issues, you can contact the development team:
+
+- Derya Bagci (https://www.linkedin.com/in/derya-bagci/) - Project Lead
+- Hande Karadeniz (https://www.linkedin.com/in/handekaradenz/) - UI/UX Designer
 
 ## License
 
