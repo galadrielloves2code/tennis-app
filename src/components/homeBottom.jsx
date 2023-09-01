@@ -31,8 +31,8 @@ export function HomeBottom() {
           display: "flex",
           justifyContent: "space-between",
           flexWrap: "wrap",
-          marginLeft: "150px",
-          marginRight: "150px",
+          marginLeft: "120px",
+          marginRight: "120px",
         }}
       >
         {renderPlayerCards()}
@@ -40,7 +40,7 @@ export function HomeBottom() {
       <div style={{ display: "flex", justifyContent: "center" }}>
         <Link
           className="nav-link active"
-          to="/players"
+          to="/players/ATP"
           style={{
             fontSize: "20px",
             fontFamily: "Poppins",
