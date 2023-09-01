@@ -99,6 +99,19 @@ export function HomeTournaments() {
           />
         </Link>
       </div>
+      <Link
+        to="/tournaments"
+        style={{
+          color: "black",
+          textDecoration: "none",
+          display: "flex",
+          justifyContent: "center",
+          marginTop: "70px",
+        }}
+      >
+        View All Tournaments
+        <p style={{ paddingTop: "1.5px", paddingLeft: "5px" }}>></p>
+      </Link>
     </div>
   );
 }
