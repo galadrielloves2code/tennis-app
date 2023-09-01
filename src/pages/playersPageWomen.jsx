@@ -4,10 +4,10 @@ import { PlayerCardWomen } from "../components/playersCardWomen";
 export function PlayersPageWomen() {
   const [count, setCount] = useState(1);
 
-  const renderPlayerCardWomen  = () => {
+  const renderPlayerCardWomen = () => {
     const playerCards = [];
     for (let i = 0; i <= 99; i++) {
-      playerCards.push(<PlayerCardWomen  key={i} rank={i} />);
+      playerCards.push(<PlayerCardWomen key={i} rank={i} />);
     }
     return playerCards;
   };
@@ -21,14 +21,14 @@ export function PlayersPageWomen() {
       className="container"
       style={{
         display: "flex",
-        justifyContent:"space-between",
+        justifyContent: "space-between",
         marginTop: "30px",
         marginBottom: "50px",
         width: "65rem",
         flexWrap: "wrap",
       }}
     >
-      {renderPlayerCardWomen ()}
+      {renderPlayerCardWomen()}
     </div>
   );
 }

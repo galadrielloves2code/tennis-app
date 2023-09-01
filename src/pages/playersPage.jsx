@@ -21,7 +21,7 @@ export function PlayersPage() {
       className="container"
       style={{
         display: "flex",
-        justifyContent:"space-between",
+        justifyContent: "space-between",
         marginTop: "30px",
         marginBottom: "50px",
         width: "65rem",
