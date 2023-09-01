@@ -3,6 +3,7 @@ import { HomeTop } from "../components/homeTop";
 import { HomeNews } from "../components/homeNews";
 import { HomeBottom } from "../components/homeBottom";
 import { HomeTournaments } from "../components/homeTournaments";
+import { BottomHeader } from "../components/bottomHeader";
 
 export function Home() {
   return (
@@ -10,7 +11,8 @@ export function Home() {
       <HomeTop />
       <HomeNews />
       <HomeBottom />
-      <HomeTournaments/>
+      <HomeTournaments />
+      <BottomHeader />
     </div>
   );
 }

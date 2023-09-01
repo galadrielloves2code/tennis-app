@@ -7,7 +7,6 @@ export function HomeTop() {
       <img
         src="/assets/images/homeBg1.png"
         alt="background"
-        className="container-fluid"
       />
       <div
         style={{
