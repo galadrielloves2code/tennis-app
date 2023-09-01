@@ -8,7 +8,7 @@ export function Logo() {
         <img
           src="../assets/logos/logo.png"
           alt="logo"
-          style={{ width: "181.5px", height: "60px", flexShrink: "0" }}
+          style={{ width: "150.5px", height: "50px", flexShrink: "0" }}
         />
       </Link>
     </div>
